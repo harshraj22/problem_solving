@@ -1,4 +1,4 @@
-// https://codereview.stackexchange.com/a/146424
+// https://codereview.stackexchange.com/a/146424 
 
 // Counts the number of palindromic numbers between two given numbers a and b.
 //

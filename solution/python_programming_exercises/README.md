@@ -1,0 +1,1 @@
+### This repo contains solution to the python programming questions tried from [this github repo](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt). Most of the comments have been added in the code snippet itself.

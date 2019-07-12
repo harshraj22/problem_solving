@@ -1,3 +1,28 @@
 ## This repo contains solutions to the [educational contest](https://atcoder.jp/contests/dp/tasks) held on AtCoder 
 
 - [x] A
+- [x] B
+- [x] C
+- [x] D
+- [ ] E
+- [x] F
+- [x] G
+- [x] H
+- [ ] I
+- [ ] J
+- [ ] K
+- [ ] L
+- [ ] M
+- [ ] N
+- [ ] O
+- [ ] P
+- [ ] Q
+- [ ] R
+- [ ] S
+- [ ] T
+- [ ] U
+- [ ] V
+- [ ] W
+- [ ] X
+- [ ] Y
+- [ ] Z

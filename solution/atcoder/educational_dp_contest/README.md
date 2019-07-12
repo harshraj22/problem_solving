@@ -1,28 +1,28 @@
 ## This repo contains solutions to the [educational contest](https://atcoder.jp/contests/dp/tasks) held on AtCoder 
 
-- [x] A
-- [x] B
-- [x] C
-- [x] D
-- [ ] E
-- [x] F
-- [x] G
-- [x] H
-- [ ] I
-- [ ] J
-- [ ] K
-- [ ] L
-- [ ] M
-- [ ] N
-- [ ] O
-- [ ] P
-- [ ] Q
-- [ ] R
-- [ ] S
-- [ ] T
-- [ ] U
-- [ ] V
-- [ ] W
-- [ ] X
-- [ ] Y
-- [ ] Z
+- [x] A : Frog 1
+- [x] B : Frog 2
+- [x] C : Vacation
+- [x] D : Knapsack 1
+- [ ] E : Knapsack 2
+- [x] F : LCS
+- [x] G : Longest Path
+- [x] H : Grid 1
+- [ ] I : Coins
+- [ ] J : Sushi
+- [ ] K : Stones
+- [ ] L : Deque
+- [ ] M : Candies
+- [ ] N : Slimes
+- [ ] O : Matching
+- [ ] P : Independent Set
+- [ ] Q : Flowers
+- [ ] R : Walk
+- [ ] S : Digit Sum
+- [ ] T : Permutation
+- [ ] U : Grouping
+- [ ] V : Subtree
+- [ ] W : Intervals
+- [ ] X : Tower
+- [ ] Y : Grid 2
+- [ ] Z : Frog 3

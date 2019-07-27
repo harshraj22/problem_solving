@@ -37,3 +37,22 @@ ostream &operator << ( ostream & os, const map< F, S > &v ) {
 }
 
 #define deb(x) cerr << #x << " = " << x << endl;
+
+template <typename T>
+void show(T arr,int n){ //for fixed length visibility of array
+    cout<<"array : \n";
+    for(int i=0;i<n;i++){
+        cout<<arr[i]<<" ";
+    }
+    cout<<endl;
+}
+
+template <typename T>
+void show(T arr,int n,int m){
+    cout<<"array : \n";
+    for(int i=0;i<n;i++){
+        for(int j=0;j<m;j++)
+            cout<<arr[i][j]<<" ";
+    cout<<endl;
+    }
+}

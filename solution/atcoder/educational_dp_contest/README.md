@@ -10,7 +10,7 @@
 - [x] H : Grid 1
 - [ ] I : Coins
 - [ ] J : Sushi
-- [ ] K : Stones
+- [x] K : Stones
 - [ ] L : Deque
 - [ ] M : Candies
 - [ ] N : Slimes

@@ -13,7 +13,7 @@
 - [x] K : Stones
 - [ ] L : Deque
 - [ ] M : Candies
-- [ ] N : Slimes
+- [x] N : Slimes
 - [ ] O : Matching
 - [ ] P : Independent Set
 - [ ] Q : Flowers

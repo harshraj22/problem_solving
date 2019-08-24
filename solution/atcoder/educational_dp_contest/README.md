@@ -16,7 +16,7 @@
 - [x] N : Slimes
 - [ ] O : Matching
 - [ ] P : Independent Set
-- [ ] Q : Flowers
+- [x] Q : Flowers
 - [ ] R : Walk
 - [ ] S : Digit Sum
 - [ ] T : Permutation

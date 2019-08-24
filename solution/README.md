@@ -8,7 +8,7 @@
 
 - [x] Trie   [And Operation](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/And_operation.cpp) , [TAAND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TAAND.cpp) , [Cost Of Data](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Cost_of_Data.cpp) , [Xor And Insert](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Xor_and_Insert.cpp)
 
-- [x] Persistent Segment Tree   [Burarray](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/BURARRAY.cpp) , [Flowers](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest/Q.cpp)
+- [x] Persistent Segment Tree   [Burarray](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/BURARRAY.cpp) , [Flowers](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest/Q.cpp) , [DQUERY](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/DQUERY.cpp)
 
 - [x] Mo's Algorithm   [CDRN04](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CDRN04.cpp)
 

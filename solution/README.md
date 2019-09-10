@@ -4,6 +4,8 @@
 
 - [x] Binary Search   [RNDRND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RNDRND.cpp) , [Agressive Cows](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Aggressive_cows.cpp)
 
+- [x] Sliding Window [HOLY](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/HOLY.cpp)
+
 - [x] Simple DFS   [KETEKI2D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KETEKI2D.cpp)
 
 - [x] Trie   [And Operation](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/And_operation.cpp) , [TAAND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TAAND.cpp) , [Cost Of Data](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Cost_of_Data.cpp) , [Xor And Insert](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Xor_and_Insert.cpp)

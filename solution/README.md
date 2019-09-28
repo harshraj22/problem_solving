@@ -8,6 +8,8 @@
 
 - [x] Simple DFS   [KETEKI2D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KETEKI2D.cpp)
 
+- [x] Simple BFS [Grid](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Grid.cpp)
+
 - [x] Binary Lifting (LCA) [INTRPATH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/INTRPATH.cpp)
 
 - [x] Policy Based Data Structure (Alternative to Treap)  [CHGORAM](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHGORAM.cpp)

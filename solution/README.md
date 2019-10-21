@@ -2,6 +2,7 @@
 
 - [x] Brute Force   [WTBTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/WTBTR.cpp)
 
+- [x] Priority Queue (Heap) [IPCTRAIN](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/IPCTRAIN.cpp) 
 - [x] Binary Search   [RNDRND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RNDRND.cpp) , [Agressive Cows](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Aggressive_cows.cpp)
 
 - [x] Sliding Window [HOLY](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/HOLY.cpp), [DEQUE](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/DEQUE.cpp)

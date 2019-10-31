@@ -13,7 +13,7 @@
 
 - [x] Binary Lifting (LCA) &nbsp; [INTRPATH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/INTRPATH.cpp)
 
-- [x] Policy Based Data Structure (Alternative to Treap)  [CHGORAM](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHGORAM.cpp) &nbsp; [TSECJ05](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.cpp) &nbsp; [TSECJ05 (copied python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.py)
+- [x] Policy Based Data Structure (Alternative to Treap)  [CHGORAM](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHGORAM.cpp) &nbsp; [TSECJ05](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.cpp) &nbsp; [TSECJ05 (copied python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.py) &nbsp; [SUBARR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SUBARR.py)
 
 - [x] Trie &nbsp; [And Operation](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/And_operation.cpp) , &nbsp; [TAAND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TAAND.cpp) , &nbsp; [Cost Of Data](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Cost_of_Data.cpp) , &nbsp; [Xor And Insert](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Xor_and_Insert.cpp) 
 

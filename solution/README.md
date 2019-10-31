@@ -11,7 +11,7 @@
 
 - [x] Simple BFS &nbsp; [Grid](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Grid.cpp)
 
-- [x] Shortest Path &nbsp; [Special Subtree](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.cpp)
+- [x] Shortest Path &nbsp; [Special Subtree](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.cpp) &nbsp; [Special Subtree (python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.py)
 
 - [x] Binary Lifting (LCA) &nbsp; [INTRPATH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/INTRPATH.cpp)
 

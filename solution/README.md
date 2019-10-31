@@ -13,7 +13,7 @@
 
 - [x] Binary Lifting (LCA) [INTRPATH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/INTRPATH.cpp)
 
-- [x] Policy Based Data Structure (Alternative to Treap)  [CHGORAM](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHGORAM.cpp)
+- [x] Policy Based Data Structure (Alternative to Treap)  [CHGORAM](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHGORAM.cpp)  [TSECJ05](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.cpp)
 
 - [x] Trie   [And Operation](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/And_operation.cpp) , [TAAND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TAAND.cpp) , [Cost Of Data](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Cost_of_Data.cpp) , [Xor And Insert](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Xor_and_Insert.cpp) 
 

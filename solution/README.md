@@ -5,7 +5,7 @@
 - [x] Priority Queue (Heap) &nbsp; [IPCTRAIN](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/IPCTRAIN.cpp) 
 - [x] Binary Search &nbsp; [RNDRND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RNDRND.cpp) , &nbsp; [Agressive Cows](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Aggressive_cows.cpp)
 
-- [x] Sliding Window &nbsp; [HOLY](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/HOLY.cpp), &nbsp; [DEQUE](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/DEQUE.cpp)
+- [x] Sliding Window &nbsp; [HOLY](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/HOLY.cpp), &nbsp; [DEQUE](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/DEQUE.cpp) &nbsp; [LongestKUniqueCharacterSubstring](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/LongestKUniqueCharacterSubstring.cpp)
 
 - [x] Simple DFS &nbsp; [KETEKI2D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KETEKI2D.cpp)
 

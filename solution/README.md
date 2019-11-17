@@ -11,7 +11,9 @@
 
 - [x] Simple BFS &nbsp; [Grid](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Grid.cpp)
 
-- [x] Shortest Path &nbsp; [Special Subtree](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.cpp) &nbsp; [Special Subtree (python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.py) &nbsp; [423 - MPI Maelstrom](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/423.cpp) &nbsp; [NegativeWeightCycle.cpp](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/NegativeWeightCycle.cpp) &nbsp; [11838.cpp](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/11838.cpp)
+- [x] Shortest Path &nbsp; [Special Subtree](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.cpp) &nbsp; [Special Subtree (python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.py) &nbsp; [423 - MPI Maelstrom](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/423.cpp) &nbsp; [NegativeWeightCycle.cpp](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/NegativeWeightCycle.cpp)
+
+- [x] Strongly Connected Components  &nbsp; [11838.cpp](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/11838.cpp)  &nbsp; [ConnectedComponent.cpp](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/ConnectedComponent.cpp)
 
 - [x] Binary Lifting (LCA) &nbsp; [INTRPATH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/INTRPATH.cpp)
 

@@ -7,6 +7,8 @@
 
 - [x] Sliding Window &nbsp; [HOLY](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/HOLY.cpp), &nbsp; [DEQUE](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/DEQUE.cpp) &nbsp; [LongestKUniqueCharacterSubstring](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/LongestKUniqueCharacterSubstring.cpp)
 
+- [x] Sweep Line &nbsp; [ONEKING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ONEKING.cpp)
+
 - [x] Simple DFS &nbsp; [KETEKI2D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KETEKI2D.cpp)
 
 - [x] Simple BFS &nbsp; [Grid](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Grid.cpp)

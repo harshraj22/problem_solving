@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/distinct-integers-in-range-66eca44b/
+
 #include<bits/stdc++.h>
 using namespace std;
 const int bitval=5002;

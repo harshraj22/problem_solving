@@ -16,6 +16,7 @@
 		const char* comma = strchr(names + 1, ',');cerr.write(names, comma - names) << " : " << arg1<<" | ";__f(comma+1, args...);
 	}
 	// https://qr.ae/TSWZ6e
+	// https://discuss.codechef.com/t/trace-__f-__va_args__-__va_args__/19200
 
 	template < typename F, typename S >
 	ostream& operator << ( ostream& os, const pair< F, S > & p ) {

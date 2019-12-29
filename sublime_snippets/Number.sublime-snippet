@@ -1,0 +1,44 @@
+<snippet>
+	<content><![CDATA[
+
+ll modpow(ll a,ll b,ll MOD) {ll res=1;a%=MOD;for(;b;b>>=1){if(b&1)res=res*a%MOD;a=a*a%MOD;}return res;} 
+// (a^b)%MOD
+
+template<typename T>T extended_euclid(T a, T b, T &x, T &y){T xx=0,yy=1;y=0;x=1;while(b){T q=a/b,t=b;b=a%b;a=t;t=xx;xx=x-q*xx;x=t;t=yy;yy=y-q*yy;y=t;}return a;}
+// ax+by=1
+
+template<typename T>T mod_inverse(T a, T MOD){T x,y,z=0;T d=extended_euclid(a,MOD,x,y);return(d>1?-1:mod_neg(x,z,MOD));}
+// ax%MOD=1, returns x
+
+#define vi vector<int>
+
+vi primeFactors(int n){  
+    if(n==1) return vi(1,1);
+    bool idx[1]={false};
+    vi res;
+    while (n%2 == 0){  
+        if(!idx[1]){idx[1]=true;res.pb(2);}
+        n = n/2;  
+    }  
+    for (int i=3;i*i<=n; i+=2){
+        bool once=false;
+        while (n%i==0){ if(!once){res.pb(i);once=true;} n=n/i; }  
+    }  
+    if (n > 2)res.pb(n);
+    return res;
+}
+
+vi divisors(int n){ 
+    vi res;
+    for (int i=1; i<=sqrt(n); i++){ 
+        if (n%i == 0){ if (n/i == i){ res.pb(i); } else{ res.pb(n/i); res.pb(i); } } 
+    } 
+    return res;
+} 
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>Number</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -2,6 +2,8 @@
 // https://www.codechef.com/status/RRATING,harshraj22
 // Think why one of them gives TLE ^_^
 
+// Think how it can be solved using segment trees @_@. Obiously segment tree for this problem is an overkill.
+
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/trie_policy.hpp>

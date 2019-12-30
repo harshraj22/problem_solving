@@ -33,5 +33,7 @@
 
 - [ ] Suffix Array 
 
+- [x] Fast Fourier Transformation [POLYMUL](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/POLYMUL.cpp)
+
 - [x] DP &nbsp; [Cirmerge](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CIRMERGE.cpp) , &nbsp; [CW1003](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CW1003.cpp) , &nbsp; [Alyona And The Tree](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Alyona_and_the_Tree.cpp), &nbsp; [Sherlock And Cost](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/sherlock_and_cost.cpp), &nbsp; [EDIST](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/EDIST.cpp), &nbsp; [FARIDA](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/FARIDA.cpp) , &nbsp; [KATGACH3](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/LATGACH3.cpp) , &nbsp; [Permutations](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Permutations.cpp) , &nbsp; [ENCODING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ENCODING.py) , &nbsp; [Educational DP Contest](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest)
 

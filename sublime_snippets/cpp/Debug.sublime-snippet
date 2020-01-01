@@ -66,8 +66,6 @@
 	    return os << "]";
 	}
 
-	#define deb(x) cerr << #x << " = " << x << endl;
-
 #else
 	#define trace(...)
 #endif
@@ -79,5 +77,6 @@
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>Debug</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.cpp, source.c++, source.c</scope>
 	<!-- <scope>source.python</scope> -->
 </snippet>

@@ -42,5 +42,6 @@ int main(){
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>init</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.cpp, source.c++, source.c</scope>
 	<!-- <scope>source.python</scope> -->
 </snippet>

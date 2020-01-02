@@ -32,7 +32,7 @@
 
 - [x] Persistent Segment Tree: &nbsp; [Burarray](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/BURARRAY.cpp) , &nbsp; [Flowers](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest/Q.cpp) , &nbsp; [DQUERY](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/DQUERY.cpp)
 
-- [x] Square Root Decomposition: &nbsp; [GIVEAWAY](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/[sqrt_decomp_method]GIVEAWAY.cpp)
+- [x] Square Root Decomposition: &nbsp; [GIVEAWAY](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/[sqrt_decomp_method]GIVEAWAY.cpp), &nbsp; [CHEFEXQ](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHEFEXQ.cpp)
 
 - [x] Mo's Algorithm: &nbsp; [CDRN04](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CDRN04.cpp)
 

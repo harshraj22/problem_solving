@@ -4,7 +4,7 @@
 
 - [ ] SOS Dp : [Jzzhu and Numbers](https://codeforces.com/contest/449/problem/D)
 
-- [ ] Dp : [SEATSR](https://www.codechef.com/problems/SEATSR)
+- [ ] Dp : [SEATSR](https://www.codechef.com/problems/SEATSR), [NoRepeatPlaylist](https://community.topcoder.com/stat?c=problem_statement&pm=11774&rd=14724&rm=&cr=23010876)
 
 - [ ] MO's algo : [GOT](https://www.spoj.com/problems/GOT/)
 

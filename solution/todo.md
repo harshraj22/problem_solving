@@ -12,3 +12,5 @@
 
 - [ ] MO's algo + lca using binary lifting : [COT2](https://www.spoj.com/problems/COT2/)
 	* Discussion : https://codeforces.com/blog/entry/43230
+
+- [ ] Binary Lifting : [RRTREE](https://www.codechef.com/problems/RRTREE)

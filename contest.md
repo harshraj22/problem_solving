@@ -8,3 +8,4 @@ Day | Rank | Link | Type | Review | Upsolved |
 4 | 1809 | [Codeforces](https://codeforces.com/contest/1294/standings/page/10) | Real | DO NOT GIVE UP. EVEN ON LAST MINUTE. Reduce WA submissions. And get a template library rather than coding everything on the spot. Changing ```int``` to ```long``` can have severe effects [MLE](https://codeforces.com/contest/1294/submission/69364778) &nbsp; [AC](https://codeforces.com/contest/1294/submission/69367029) | ====== |
 5 | 232 | [Codeforces](https://codeforces.com/contest/1283/standings/page/2) | Virtual | Fast + Correct attempt does magic. And yes, 1800 are easy. | ====== |
 6 | 2075 | [Codeforces](https://codeforces.com/contest/1271/standings/page/11) | Virtual | These practice won't help unless you are serious. Laziness will result in catestrophe. | ====== |
+7 | 1894 | [Codeforces](https://codeforces.com/contest/1279) | Virtual | Again ! THE TEMPLATE !!! Get it ASAP | ====== | 

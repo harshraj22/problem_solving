@@ -8,7 +8,7 @@
 
 - [x] Sliding Window: &nbsp; [HOLY](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/HOLY.cpp), &nbsp; [DEQUE](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/DEQUE.cpp), &nbsp; [LongestKUniqueCharacterSubstring](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/LongestKUniqueCharacterSubstring.cpp)
 
-- [x] Sweep Line: &nbsp; [ONEKING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ONEKING.cpp),  &nbsp; [SEGDIR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SEGDIR.cpp)
+- [x] Sweep Line: &nbsp; [ONEKING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ONEKING.cpp),  &nbsp; [SEGDIR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SEGDIR.cpp), &nbsp; [SiverFoxVsMonster](https://github.com/harshraj22/problem_solving/blob/master/atcoder/SiverFoxVsMonster.cpp)
 
 - [x] Union Find (DSU): &nbsp; [MAGICSTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAGICSTR.cpp)
 
@@ -43,6 +43,7 @@
 - [x] DP 
 	- [x] Standard: &nbsp; [Cirmerge](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CIRMERGE.cpp) , &nbsp; [CW1003](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CW1003.cpp), &nbsp; [Sherlock And Cost](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/sherlock_and_cost.cpp), &nbsp; [EDIST](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/EDIST.cpp), &nbsp; [FARIDA](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/FARIDA.cpp) , &nbsp; [KATGACH3](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/LATGACH3.cpp) , &nbsp; [Permutations](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Permutations.cpp) , &nbsp; [MutaliskEasy](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/MutaliskEasy.cpp)  
 	- [x] Matrix Multiplication: &nbsp; [HandsShaking](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/HandsShaking.cpp)
+	- [x] Knapsack: &nbsp; [CrestedIbisVsMonster](https://github.com/harshraj22/problem_solving/blob/master/atcoder/CrestedIbisVsMonster.cpp)
 	- [x] Edit Distance: &nbsp; [Books](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/Books.cpp)
 	- [x] Dp on Trees: &nbsp; [Alyona And The Tree](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Alyona_and_the_Tree.cpp), 
 	- [x] Digit Dp: &nbsp; [ENCODING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ENCODING.py) 

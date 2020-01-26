@@ -9,3 +9,4 @@ Day | Rank | Link | Type | Review | Upsolved |
 5 | 232 | [Codeforces](https://codeforces.com/contest/1283/standings/page/2) | Virtual | Fast + Correct attempt does magic. And yes, 1800 are easy. | ====== |
 6 | 2075 | [Codeforces](https://codeforces.com/contest/1271/standings/page/11) | Virtual | These practice won't help unless you are serious. Laziness will result in catestrophe. | ====== |
 7 | 1894 | [Codeforces](https://codeforces.com/contest/1279) | Virtual | Again ! THE TEMPLATE !!! Get it ASAP | ====== | 
+8 | 610 | [Atcoder](https://atcoder.jp/contests/abc153/standings) | Real | ABC Contests are waste of time. Go for AGC or Codeforces | Not Required 

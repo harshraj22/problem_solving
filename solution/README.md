@@ -12,7 +12,7 @@
 
 - [x] Union Find (DSU): &nbsp; [MAGICSTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAGICSTR.cpp)
 
-- [x] Simple DFS: &nbsp; [KETEKI2D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KETEKI2D.cpp), &nbsp; [NewReform](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/NewReform.cpp)
+- [x] Simple DFS: &nbsp; [KETEKI2D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KETEKI2D.cpp), &nbsp; [NewReform](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/NewReform.cpp),  &nbsp; [EvenRelation](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/EvenRelation.cpp)
 
 - [x] Simple BFS: &nbsp; [Grid](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Grid.cpp)
 

@@ -10,6 +10,8 @@
 
 - [x] Sweep Line: &nbsp; [ONEKING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ONEKING.cpp),  &nbsp; [SEGDIR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SEGDIR.cpp), &nbsp; [SiverFoxVsMonster](https://github.com/harshraj22/problem_solving/blob/master/atcoder/SiverFoxVsMonster.cpp)
 
+- [x] Geometry: &nbsp; [CLOPPAIR](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/CLOPPAIR.cpp)
+
 - [x] Union Find (DSU): &nbsp; [MAGICSTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAGICSTR.cpp)
 
 - [x] Simple DFS: &nbsp; [KETEKI2D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KETEKI2D.cpp), &nbsp; [NewReform](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/NewReform.cpp),  &nbsp; [EvenRelation](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/EvenRelation.cpp)

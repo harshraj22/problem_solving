@@ -11,3 +11,5 @@ Day | Rank | Link | Type | Review | Upsolved |
 7 | 1894 | [Codeforces](https://codeforces.com/contest/1279) | Virtual | Again ! THE TEMPLATE !!! Get it ASAP | ====== | 
 8 | 610 | [Atcoder](https://atcoder.jp/contests/abc153/standings) | Real | ABC Contests are waste of time. Go for AGC or Codeforces | Not Required |
 8 | 2715 | [Codeforces](https://codeforces.com/contest/1282) | Virtual | You Know it ! | 2 | 
+9 | =====| ================================================= | ======= | Power Cut is just an excuse to hide laziness. | 2 |
+10| 3050 | [Codeforces](https://codeforces.com/contest/1295/standings/participant/32280114#p32280114) | Real | Literally ? Neither accurate nor fast ? Need to work lot more. | 1 |

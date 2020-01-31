@@ -38,7 +38,7 @@
 
 - [x] Square Root Decomposition: &nbsp; [GIVEAWAY](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/[sqrt_decomp_method]GIVEAWAY.cpp), &nbsp; [CHEFEXQ](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHEFEXQ.cpp)
 
-- [x] Mo's Algorithm: &nbsp; [CDRN04](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CDRN04.cpp)
+	- [x] Mo's Algorithm: &nbsp; [CDRN04](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CDRN04.cpp)
 
 - [ ] Suffix Array:
 
@@ -49,7 +49,7 @@
 	- [x] Matrix Multiplication: &nbsp; [HandsShaking](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/HandsShaking.cpp)
 	- [x] Knapsack: &nbsp; [CrestedIbisVsMonster](https://github.com/harshraj22/problem_solving/blob/master/atcoder/CrestedIbisVsMonster.cpp)
 	- [x] Edit Distance: &nbsp; [Books](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/Books.cpp)
-	- [x] Dp on Trees: &nbsp; [Alyona And The Tree](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Alyona_and_the_Tree.cpp), 
+	- [x] Dp on Trees: &nbsp; [Alyona And The Tree](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Alyona_and_the_Tree.cpp),  &nbsp; [EternalVictory](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/EternalVictory.cpp),
 	- [x] Digit Dp: &nbsp; [ENCODING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ENCODING.py) 
 	- [x] SOS Dp: &nbsp; [MAXOR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAXOR.cpp),  &nbsp; [Special Pairs](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Special_Pairs.cpp), &nbsp; [Compatible Numbers](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Compatible_Numbers.cpp), &nbsp; [Vowels](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Vowels.cpp)
 	- [x] &nbsp; [Educational DP Contest](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest)

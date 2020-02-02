@@ -51,6 +51,7 @@
 	- [x] Edit Distance: &nbsp; [Books](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/Books.cpp)
 	- [x] Dp on Trees: &nbsp; [Alyona And The Tree](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Alyona_and_the_Tree.cpp),  &nbsp; [EternalVictory](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/EternalVictory.cpp),
 	- [x] Digit Dp: &nbsp; [ENCODING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ENCODING.py) 
+	- [x] Dp with Bitmask: &nbsp; [EllysCheckers](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/EllysCheckers.cpp)
 	- [x] SOS Dp: &nbsp; [MAXOR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAXOR.cpp),  &nbsp; [Special Pairs](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Special_Pairs.cpp), &nbsp; [Compatible Numbers](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Compatible_Numbers.cpp), &nbsp; [Vowels](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Vowels.cpp)
 	- [x] &nbsp; [Educational DP Contest](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest)
 

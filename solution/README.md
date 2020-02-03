@@ -8,7 +8,7 @@
 
 - [x] Sliding Window: &nbsp; [HOLY](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/HOLY.cpp), &nbsp; [DEQUE](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/DEQUE.cpp), &nbsp; [LongestKUniqueCharacterSubstring](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/LongestKUniqueCharacterSubstring.cpp)
 
-- [x] Sweep Line: &nbsp; [ONEKING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ONEKING.cpp),  &nbsp; [SEGDIR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SEGDIR.cpp), &nbsp; [SiverFoxVsMonster](https://github.com/harshraj22/problem_solving/blob/master/atcoder/SiverFoxVsMonster.cpp)
+- [x] Sweep Line: &nbsp; [ONEKING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ONEKING.cpp),  &nbsp; [SEGDIR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SEGDIR.cpp), &nbsp; [SiverFoxVsMonster](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/SiverFoxVsMonster.cpp)
 
 - [x] Geometry: &nbsp; [CLOPPAIR](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/CLOPPAIR.cpp)
 
@@ -26,7 +26,7 @@
 
 - [x] Binary Lifting (LCA): &nbsp; [INTRPATH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/INTRPATH.cpp)
 
-- [x] Policy Based Data Structure (Alternative to Treap): &nbsp; [CHGORAM](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHGORAM.cpp), &nbsp; [TSECJ05](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.cpp), &nbsp; [TSECJ05 (copied python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.py), &nbsp; [SUBARR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SUBARR.py), &nbsp; [NewYearChaos](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/NewYearChaos.cpp), &nbsp; [RRATING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RRATING.cpp), &nbsp; [TESCJ05](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TESCJ05.cpp)
+- [x] Policy Based Data Structure (Alternative to Treap): &nbsp; [CHGORAM](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHGORAM.cpp), &nbsp; [TSECJ05](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.cpp), &nbsp; [TSECJ05 (copied python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.py), &nbsp; [SUBARR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SUBARR.cpp), &nbsp; [NewYearChaos](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/NewYearChaos.cpp), &nbsp; [RRATING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RRATING.cpp), &nbsp; [TESCJ05](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TESCJ05.cpp)
 
 - [x] Trie: &nbsp; [And Operation](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/And_operation.cpp), &nbsp; [TAAND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TAAND.cpp) , &nbsp; [Cost Of Data](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Cost_of_Data.cpp), &nbsp; [Xor And Insert](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Xor_and_Insert.cpp) 
 
@@ -46,12 +46,12 @@
 
 - [x] DP 
 	- [x] Standard: &nbsp; [Cirmerge](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CIRMERGE.cpp) , &nbsp; [CW1003](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CW1003.cpp), &nbsp; [Sherlock And Cost](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/sherlock_and_cost.cpp), &nbsp; [EDIST](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/EDIST.cpp), &nbsp; [FARIDA](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/FARIDA.cpp) , &nbsp; [KATGACH3](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/LATGACH3.cpp) , &nbsp; [Permutations](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Permutations.cpp) , &nbsp; [MutaliskEasy](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/MutaliskEasy.cpp)  
-	- [x] Matrix Multiplication: &nbsp; [HandsShaking](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/HandsShaking.cpp)
-	- [x] Knapsack: &nbsp; [CrestedIbisVsMonster](https://github.com/harshraj22/problem_solving/blob/master/atcoder/CrestedIbisVsMonster.cpp)
-	- [x] Edit Distance: &nbsp; [Books](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/Books.cpp)
+	- [x] Matrix Multiplication: &nbsp; [HandsShaking](https://github.com/harshraj22/problem_solving/blob/master/solution/topocoder/HandsShaking.cpp)
+	- [x] Knapsack: &nbsp; [CrestedIbisVsMonster](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/CrestedIbisVsMonster.cpp)
+	- [x] Edit Distance: &nbsp; [Books](https://github.com/harshraj22/problem_solving/blob/master/solution/topocoder/Books.cpp)
 	- [x] Dp on Trees: &nbsp; [Alyona And The Tree](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Alyona_and_the_Tree.cpp),  &nbsp; [EternalVictory](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/EternalVictory.cpp),
 	- [x] Digit Dp: &nbsp; [ENCODING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ENCODING.py) 
-	- [x] Dp with Bitmask: &nbsp; [EllysCheckers](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/EllysCheckers.cpp)
+	- [x] Dp with Bitmask: &nbsp; [EllysCheckers](https://github.com/harshraj22/problem_solving/blob/master/solution/topocoder/EllysCheckers.cpp)
 	- [x] SOS Dp: &nbsp; [MAXOR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAXOR.cpp),  &nbsp; [Special Pairs](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Special_Pairs.cpp), &nbsp; [Compatible Numbers](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Compatible_Numbers.cpp), &nbsp; [Vowels](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Vowels.cpp)
 	- [x] &nbsp; [Educational DP Contest](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest)
 

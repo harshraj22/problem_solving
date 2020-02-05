@@ -17,3 +17,5 @@ Day | Rank | Link | Type | Review | Upsolved |
 11 | 702 | [Codeforces](https://codeforces.com/contest/1269/standings/page/4) | Virtual | Game Changes when you are accurate and fast as well. | ====== | 
 12 | 1758 | [Codeforces](https://codeforces.com/contest/1281/standings/page/9) | Virtual | Need to improve accuracy | 0 |
 13 | 2841 | [Codeforces](https://codeforces.com/contest/1291/) | Real | .... | ====== |
+14 | 3654 | [Codeforces](https://codeforces.com/contest/1263) | Virtual | EASY MUST BE ACCEPTED | ====== |
+15 | 750 | [Codeforces](https://codeforces.com/contest/1296) | Real | 500+ submissions in div3 => Easy | 1 |

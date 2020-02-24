@@ -1,4 +1,5 @@
 // https://www.spoj.com/problems/CLOPPAIR/
+// nlogn solution
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -28,11 +29,14 @@ double dist(pi x, pi y){
     return sqrt((x.first-y.first)*(x.first-y.first) + (x.second-y.second)*(x.second-y.second));
 }
 
+// stores min dist, and pair of points having the stored distance
 struct block{
     double d;
     pi a,b;
 };
 
+// splits the input array into two halves and recursively solve both of them
+// joins the answer from both calls in O(n) making total complexity as O(nlogn)
 block recur(vector<pi> x, vector<pi> y){
     if(x.size()==2){
         block var;
@@ -41,6 +45,7 @@ block recur(vector<pi> x, vector<pi> y){
         var.b = x[1];
         return var;
     }
+
     // when dividing vector of 3 elements, one set might contain only
     // one element, return such a value, that is sure to be ignored
     else if(x.size()==1){
@@ -54,8 +59,13 @@ block recur(vector<pi> x, vector<pi> y){
     int len = x.size();
     int mid = len/2;
     
+    // basic divide and conquer step split points into 2 parts, 
     vector<pi> ypass,xpass(x.begin(),x.begin()+mid+1);
     vector<pi> ynext,xnext(x.begin()+mid+1,x.end());
+
+    // preparing the array sorted according to y-coordinate to be
+    // passed recursively. Think why we can't pass the first half
+    // and second half as doing with array of sorted x-coordinate
     for(auto it:y){
         if(binary_search(x.begin(),x.begin()+mid+1,it))
             ypass.push_back(it);
@@ -66,6 +76,7 @@ block recur(vector<pi> x, vector<pi> y){
     block varpass = recur(xpass,ypass),varnext = recur(xnext,ynext);
     // divide input into 2 and recursively calculate for both parts
     
+    // answer from left and right subhalves
     block curans;
     if(varpass.d < varnext.d)
         curans = varpass;
@@ -73,10 +84,13 @@ block recur(vector<pi> x, vector<pi> y){
         curans = varnext;
 
     // check cases when one point lies in left part and other in right one
+    // for each point, we need to check only 16 points before and after of it in the 
+    // array sorted according to y-coordinate
     for(int j=0;j<xpass.size();j++){
         auto it = xpass[j];
         int index = lower_bound(y.begin(),y.end(),it) - y.begin();
         for(int i=max(0,index-15);i<min(index+16,(int)y.size());i++){
+            // don't consider distance of point from itself.
             if(it==y[i])
                 continue;
             double d = dist(it,y[i]);

@@ -14,3 +14,5 @@
 	* Discussion : https://codeforces.com/blog/entry/43230
 
 - [ ] Binary Lifting : [RRTREE](https://www.codechef.com/problems/RRTREE)
+
+- [ ] Suffix Array : [SARRAY](https://www.spoj.com/problems/SARRAY/)

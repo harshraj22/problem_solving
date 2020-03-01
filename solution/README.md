@@ -6,6 +6,8 @@
 
 - [x] Binary Search: &nbsp; [RNDRND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RNDRND.cpp), &nbsp; [Agressive Cows](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Aggressive_cows.cpp), &nbsp; [Present](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Present.cpp)
 
+- [x] Divide and Conquer: &nbsp; [Painting Fence](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/PaintingFence.cpp)
+
 - [x] Sliding Window: &nbsp; [HOLY](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/HOLY.cpp), &nbsp; [DEQUE](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/DEQUE.cpp), &nbsp; [LongestKUniqueCharacterSubstring](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/LongestKUniqueCharacterSubstring.cpp)
 
 - [x] Sweep Line: &nbsp; [ONEKING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ONEKING.cpp),  &nbsp; [SEGDIR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SEGDIR.cpp), &nbsp; [SiverFoxVsMonster](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/SiverFoxVsMonster.cpp)

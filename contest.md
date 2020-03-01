@@ -19,3 +19,7 @@ Day | Rank | Link | Type | Review | Upsolved |
 13 | 2841 | [Codeforces](https://codeforces.com/contest/1291/) | Real | .... | ====== |
 14 | 3654 | [Codeforces](https://codeforces.com/contest/1263) | Virtual | EASY MUST BE ACCEPTED | ====== |
 15 | 750 | [Codeforces](https://codeforces.com/contest/1296) | Real | 500+ submissions in div3 => Easy | 1 |
+
+
+* log(n) is not always negligible. Especially when there is already a log(n) factor. i.e. O(n) and O(n*log(n)*log(n)) differ alot
+[TLE](https://codeforces.com/problemset/submission/385/72215293) to [AC](https://codeforces.com/problemset/submission/385/72215637) by changing map to array.

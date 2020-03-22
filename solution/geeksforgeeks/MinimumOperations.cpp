@@ -31,3 +31,21 @@ int main(){
 		solve();
 	return 0;
 }
+
+
+/*
+test = int(input())
+for _ in range(test):
+    n = int(input())
+
+    dp = [0 for __ in range(n+1)]
+    dp[n-1] = 1
+    
+    for i in range(n-2,-1,-1):
+        dp[i] = 1 + dp[i+1]
+        if i*2 <= n:
+            dp[i] = min(dp[i],1 + dp[i*2])
+            
+    print(dp[0])
+
+*/

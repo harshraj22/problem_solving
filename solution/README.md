@@ -1,4 +1,5 @@
 ## Topic wise faster lookup:
+   ##### This lookup contains only ```small section``` of my list of problems solved.
 
 - [x] Brute Force: &nbsp; [WTBTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/WTBTR.cpp)
 
@@ -15,6 +16,8 @@
 - [x] Geometry: &nbsp; [CLOPPAIR](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/CLOPPAIR.cpp)
 
 - [x] Union Find (DSU): &nbsp; [MAGICSTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAGICSTR.cpp)
+
+- [x] Trees: &nbsp; [RestoreGraph](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/RestoreGraph.cpp)
 
 - [x] Simple DFS: &nbsp; [KETEKI2D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KETEKI2D.cpp), &nbsp; [NewReform](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/NewReform.cpp),  &nbsp; [EvenRelation](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/EvenRelation.cpp)
 

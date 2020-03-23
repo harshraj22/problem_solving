@@ -49,6 +49,9 @@
 
 - [x] Fast Fourier Transformation: [POLYMUL](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/POLYMUL.cpp)
 
+- [x] Math
+	- [x] Probability: &nbsp; [TheLotteryBothDivs](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/TheLotteryBothDivs.cpp)
+
 - [x] DP
 	- [x] Standard: &nbsp; [Cirmerge](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CIRMERGE.cpp) , &nbsp; [CW1003](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CW1003.cpp), &nbsp; [Sherlock And Cost](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/sherlock_and_cost.cpp), &nbsp; [EDIST](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/EDIST.cpp), &nbsp; [FARIDA](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/FARIDA.cpp) , &nbsp; [KATGACH3](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/LATGACH3.cpp) , &nbsp; [Permutations](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Permutations.cpp) , &nbsp; [MutaliskEasy](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/MutaliskEasy.cpp)  
 	- [x] Matrix Multiplication: &nbsp; [HandsShaking](https://github.com/harshraj22/problem_solving/blob/master/solution/topocoder/HandsShaking.cpp)
@@ -59,4 +62,6 @@
 	- [x] Dp with Bitmask: &nbsp; [EllysCheckers](https://github.com/harshraj22/problem_solving/blob/master/solution/topocoder/EllysCheckers.cpp)
 	- [x] SOS Dp: &nbsp; [MAXOR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAXOR.cpp),  &nbsp; [Special Pairs](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Special_Pairs.cpp), &nbsp; [Compatible Numbers](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Compatible_Numbers.cpp), &nbsp; [Vowels](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Vowels.cpp)
 	- [x] &nbsp; [Educational DP Contest](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest)
+
+
 

@@ -81,3 +81,27 @@ int main(){
 		solve();
 	return 0;
 }
+
+/* 
+from math import inf
+from bisect import bisect_right
+
+tests = int(input())
+for test in range(tests):
+    n, ans = int(input()), 0
+    arr = list(map(int, input().split()))
+    lis = [inf for _ in range(n)]
+
+    for element in arr:
+        # bisect_right returns the rightmost index, where 'element'
+        # should be inserted for array to remain sorted, if 'element'
+        # is already present, it returns the next index of rightmost 
+        # position of 'element'
+        index = max(-1, bisect_right(lis, element) - 1)
+        
+        lis[index+1] = element
+        ans = max(ans, index+1)
+
+    print(ans+1)    
+
+ */

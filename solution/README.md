@@ -57,12 +57,12 @@
 
 - [x] DP
 	- [x] Standard: &nbsp; [Cirmerge](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CIRMERGE.cpp) , &nbsp; [CW1003](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CW1003.cpp), &nbsp; [Sherlock And Cost](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/sherlock_and_cost.cpp), &nbsp; [EDIST](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/EDIST.cpp), &nbsp; [FARIDA](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/FARIDA.cpp) , &nbsp; [KATGACH3](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/LATGACH3.cpp) , &nbsp; [Permutations](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Permutations.cpp) , &nbsp; [MutaliskEasy](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/MutaliskEasy.cpp)  
-	- [x] Matrix Multiplication: &nbsp; [HandsShaking](https://github.com/harshraj22/problem_solving/blob/master/solution/topocoder/HandsShaking.cpp)
+	- [x] Matrix Multiplication: &nbsp; [HandsShaking](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/HandsShaking.cpp)
 	- [x] Knapsack: &nbsp; [CrestedIbisVsMonster](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/CrestedIbisVsMonster.cpp)
-	- [x] Edit Distance: &nbsp; [Books](https://github.com/harshraj22/problem_solving/blob/master/solution/topocoder/Books.cpp)
+	- [x] Edit Distance: &nbsp; [Books](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/Books.cpp)
 	- [x] Dp on Trees: &nbsp; [Alyona And The Tree](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Alyona_and_the_Tree.cpp),  &nbsp; [EternalVictory](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/EternalVictory.cpp),  &nbsp; [PT07Z](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/PT07Z.cpp),
 	- [x] Digit Dp: &nbsp; [ENCODING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/ENCODING.py) 
-	- [x] Dp with Bitmask: &nbsp; [EllysCheckers](https://github.com/harshraj22/problem_solving/blob/master/solution/topocoder/EllysCheckers.cpp)
+	- [x] Dp with Bitmask: &nbsp; [EllysCheckers](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/EllysCheckers.cpp)
 	- [x] SOS Dp: &nbsp; [MAXOR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAXOR.cpp),  &nbsp; [Special Pairs](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Special_Pairs.cpp), &nbsp; [Compatible Numbers](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Compatible_Numbers.cpp), &nbsp; [Vowels](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Vowels.cpp)
 	- [x] &nbsp; [Educational DP Contest](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest)
 

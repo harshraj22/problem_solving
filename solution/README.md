@@ -5,7 +5,10 @@
 
 - [x] Priority Queue: (Heap) &nbsp; [IPCTRAIN](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/IPCTRAIN.cpp) 
 
-- [x] Binary Search: &nbsp; [RNDRND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RNDRND.cpp), &nbsp; [Agressive Cows](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Aggressive_cows.cpp), &nbsp; [Present](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Present.cpp)
+- [x] Search: &nbsp;
+	- [x] Binary Search: &nbsp; [RNDRND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RNDRND.cpp), &nbsp; [Agressive Cows](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Aggressive_cows.cpp), &nbsp; [Present](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Present.cpp)
+
+	- [x] Ternary Search: &nbsp; [DevuAndHisBrother](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DevuAndHisBrother.cpp)
 
 - [x] Divide and Conquer: &nbsp; [Painting Fence](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/PaintingFence.cpp)
 

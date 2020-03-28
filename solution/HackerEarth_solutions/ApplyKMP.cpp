@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/problem-to-be-linked-with-kmp-tutorial-1/
+
 #include<bits/stdc++.h>
 using namespace std;
 

@@ -10,6 +10,8 @@
 
 	- [x] Ternary Search: &nbsp; [DevuAndHisBrother](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DevuAndHisBrother.cpp)
 
+- [x] Two Pointer: &nbsp; [PEC003](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/PEC003.cpp)
+
 - [x] Divide and Conquer: &nbsp; [Painting Fence](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/PaintingFence.cpp)
 
 - [x] Sliding Window: &nbsp; [HOLY](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/HOLY.cpp), &nbsp; [DEQUE](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/DEQUE.cpp), &nbsp; [LongestKUniqueCharacterSubstring](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/LongestKUniqueCharacterSubstring.cpp)

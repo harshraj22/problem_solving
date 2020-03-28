@@ -16,3 +16,5 @@
 - [ ] Binary Lifting : [RRTREE](https://www.codechef.com/problems/RRTREE)
 
 - [ ] Suffix Array : [SARRAY](https://www.spoj.com/problems/SARRAY/)
+
+- [ ] Expectation Value + KMP: [PTOSS](https://www.codechef.com/problems/PTOSS)

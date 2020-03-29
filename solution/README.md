@@ -10,7 +10,7 @@
 
 	- [x] Ternary Search: &nbsp; [DevuAndHisBrother](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DevuAndHisBrother.cpp)
 
-	- [x] KMP: &nbsp; [ApplyKMP](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/ApplyKMP.cpp), &nbsp; [KAN13C](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KAN13C.cpp), 
+	- [x] KMP: &nbsp; [ApplyKMP](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/ApplyKMP.cpp), &nbsp; [KAN13C](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KAN13C.cpp), &nbsp; [459](https://github.com/harshraj22/problem_solving/blob/master/solution/leetcode/459.cpp)  
 
 - [x] Two Pointer: &nbsp; [PEC003](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/PEC003.cpp)
 

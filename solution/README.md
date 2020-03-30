@@ -10,7 +10,8 @@
 
 	- [x] Ternary Search: &nbsp; [DevuAndHisBrother](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DevuAndHisBrother.cpp)
 
-	- [x] KMP: &nbsp; [ApplyKMP](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/ApplyKMP.cpp), &nbsp; [KAN13C](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KAN13C.cpp), &nbsp; [459](https://github.com/harshraj22/problem_solving/blob/master/solution/leetcode/459.cpp)  
+	- [x] KMP: &nbsp; [ApplyKMP](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/ApplyKMP.cpp), &nbsp; [KAN13C](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KAN13C.cpp), &nbsp; [459](https://github.com/harshraj22/problem_solving/blob/master/solution/leetcode/459.cpp) , &nbsp; [1423](https://github.com/harshraj22/problem_solving/blob/master/solution/timus/1423.cpp)  
+ 
 
 - [x] Manacher's Algorithm: &nbsp; [LongestPalindromicSubstring](https://github.com/harshraj22/problem_solving/blob/master/solution/interviewbit/LongestPalindromicSubstring.cpp), &nbsp; [1297](https://github.com/harshraj22/problem_solving/blob/master/solution/timus/1297.cpp)
 

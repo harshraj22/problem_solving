@@ -29,3 +29,25 @@ public:
         return max(sol.first, sol.second);
     }
 };
+
+/*
+class Solution:
+    from math import inf
+    
+    def recur(self, node):
+        if node == None:
+            return [0, -inf]
+        ans = [0, node.val]
+        left = self.recur(node.left)
+        right = self.recur(node.right)
+        
+        ans[0] = max(ans[0], left[0]+right[0], left[0]+right[1], left[1]+right[0], left[1]+right[1])
+        
+        ans[1] = max(ans[1], node.val + left[0] + right[0])
+
+        return ans
+    
+    
+    def rob(self, root: TreeNode) -> int:
+        return max(self.recur(root))
+*/

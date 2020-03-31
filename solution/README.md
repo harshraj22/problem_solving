@@ -59,7 +59,7 @@
 
 	- [x] Mo's Algorithm: &nbsp; [CDRN04](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CDRN04.cpp)
 
-- [ ] Suffix Array:
+- [x] Suffix Array: &nbsp; [1590](https://github.com/harshraj22/problem_solving/blob/master/solution/timus/1590\(using_suffix_array\).cpp)
 
 - [x] Fast Fourier Transformation: [POLYMUL](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/POLYMUL.cpp)
 

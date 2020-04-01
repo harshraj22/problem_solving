@@ -12,7 +12,7 @@ Day | Rank | Link | Type | Review | Upsolved |
 7 | 1894 | [Codeforces](https://codeforces.com/contest/1279) | Virtual | Again ! THE TEMPLATE !!! Get it ASAP | ====== | 
 8 | 610 | [Atcoder](https://atcoder.jp/contests/abc153/standings) | Real | ABC Contests are waste of time. Go for AGC or Codeforces | Not Required |
 8 | 2715 | [Codeforces](https://codeforces.com/contest/1282) | Virtual | You Know it ! | 2 | 
-9 | =====| ================================================= | ======= | Power Cut is just an excuse to hide laziness. | ====== |
+9 | =====| ===================== | ======= | Power Cut is just an excuse to hide laziness. | ====== |
 10| 3050 | [Codeforces](https://codeforces.com/contest/1295/standings/participant/32280114#p32280114) | Real | Literally ? Neither accurate nor fast ? Need to work lot more. | 1 |
 11 | 702 | [Codeforces](https://codeforces.com/contest/1269/standings/page/4) | Virtual | Game Changes when you are accurate and fast as well. | ====== | 
 12 | 1758 | [Codeforces](https://codeforces.com/contest/1281/standings/page/9) | Virtual | Need to improve accuracy | 0 |
@@ -23,3 +23,8 @@ Day | Rank | Link | Type | Review | Upsolved |
 
 * log(n) is not always negligible. Especially when there is already a log(n) factor. i.e. O(n) and O(n*log(n)*log(n)) differ alot
 [TLE](https://codeforces.com/problemset/submission/385/72215293) to [AC](https://codeforces.com/problemset/submission/385/72215637) by changing map to array.
+
+
+| Day | Link | Website |
+|-----|------|---------|
+|1    | [Biweekly 21](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Biweekly21)  |[Leetcode](https://leetcode.com/)|

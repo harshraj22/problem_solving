@@ -25,6 +25,7 @@ Day | Rank | Link | Type | Review | Upsolved |
 [TLE](https://codeforces.com/problemset/submission/385/72215293) to [AC](https://codeforces.com/problemset/submission/385/72215637) by changing map to array.
 
 
-| Day | Link | Website |
-|-----|------|---------|
-|1    | [Biweekly 21](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Biweekly21)  |[Leetcode](https://leetcode.com/)|
+|S. No.| Day | Link | Website |
+|------|-----|------|---------|
+|1     |1    | [Biweekly 21](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Biweekly21)  |[Leetcode](https://leetcode.com/contest/biweekly-contest-21)|
+|2     |1    | [Round 494](https://github.com/harshraj22/problem_solving/tree/master/solution/codeforces/contests/494)  |[Codeforces](https://codeforces.com/contest/1003)|

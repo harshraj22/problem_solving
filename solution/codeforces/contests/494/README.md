@@ -4,8 +4,8 @@
 
 * Contest Rank: 1237
 
-* Number of upsolve: 0
+* Number of upsolve: 1
 
-* Total Remaining: 2
+* Total Remaining: 1
 
 * Remarks: &nbsp; `Good performance after long break. ^_`

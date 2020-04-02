@@ -64,3 +64,25 @@ public:
     }
 };
 ```
+* Python3 implementation:
+
+``` python
+class Solution:
+    def isHappy(self, n: int) -> bool:
+        
+        def sumOfSquares(num):
+            return sum(int(i)*int(i) for i in str(num))
+        
+        slow, fast = n, sumOfSquares(n)
+        
+        while slow != fast:
+            if slow == 1:
+                return True;
+            slow = sumOfSquares(slow)
+            fast = sumOfSquares(fast)
+            fast = sumOfSquares(fast)
+        
+        if slow == 1:
+            return True
+        return False
+```

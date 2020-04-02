@@ -32,3 +32,35 @@ public:
     }
 };
 ```
+
+``` c++
+// idea from discussion forum
+
+class Solution {
+public:
+    bool isHappy(int n) {
+        auto sumOfSquares = [](int num, int ans=0)->int {
+            while (num) {
+                int last = num % 10;
+                ans += (last*last);
+                num /= 10;
+            }
+            return ans;
+        };
+        
+        int slow = n, fast = sumOfSquares(n);
+        
+        while (slow != fast) {
+            if (slow == 1)
+                return true;
+            slow = sumOfSquares(slow);
+            fast = sumOfSquares(fast);
+            fast = sumOfSquares(fast);
+        }
+
+        if (slow == 1)
+            return true;
+        return false;
+    }
+};
+```

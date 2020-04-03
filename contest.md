@@ -30,3 +30,4 @@ Day | Rank | Link | Type | Review | Upsolved |
 |1     |1    | [Biweekly 21](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Biweekly21)  |[Leetcode](https://leetcode.com/contest/biweekly-contest-21)|
 |2     |1    | [Round 494](https://github.com/harshraj22/problem_solving/tree/master/solution/codeforces/contests/494)  |[Codeforces](https://codeforces.com/contest/1003)|
 |3     |2    | [Weekly 87](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly87) | [Leetcode](https://leetcode.com/contest/weekly-contest-87) |
+|4    |2     | [Educational 77](https://github.com/harshraj22/problem_solving/tree/master/solution/codeforces/contests/77) | [Codeforces](https://codeforces.com/contest/1260) |

@@ -31,3 +31,4 @@ Day | Rank | Link | Type | Review | Upsolved |
 |2     |1    | [Round 494](https://github.com/harshraj22/problem_solving/tree/master/solution/codeforces/contests/494)  |[Codeforces](https://codeforces.com/contest/1003)|
 |3     |2    | [Weekly 87](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly87) | [Leetcode](https://leetcode.com/contest/weekly-contest-87) |
 |4    |2     | [Educational 77](https://github.com/harshraj22/problem_solving/tree/master/solution/codeforces/contests/77) | [Codeforces](https://codeforces.com/contest/1260) |
+| 6   | 4   | [Weekly 84](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly84) | [Leetcode](https://leetcode.com/contest/weekly-contest-84) |

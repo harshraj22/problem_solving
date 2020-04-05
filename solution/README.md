@@ -1,6 +1,8 @@
 ## Topic wise faster lookup:
    ##### This lookup contains only ```small section``` of my list of problems solved.
 
+- [x] Lambda Functions: &nbsp; [DFSOfGraph](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/DFSOfGraph.cpp)
+
 - [x] Brute Force: &nbsp; [WTBTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/WTBTR.cpp)
 
 - [x] Priority Queue: (Heap) &nbsp; [IPCTRAIN](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/IPCTRAIN.cpp) 

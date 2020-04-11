@@ -18,3 +18,5 @@
 - [ ] Suffix Array : [SARRAY](https://www.spoj.com/problems/SARRAY/)
 
 - [ ] Expectation Value + KMP: [PTOSS](https://www.codechef.com/problems/PTOSS)
+ 
+- [ ] Binary Lifting: [UPDOTR](https://www.codechef.com/problems/UPDOTR)

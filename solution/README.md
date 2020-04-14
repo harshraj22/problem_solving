@@ -61,7 +61,7 @@
 
 	- [x] Mo's Algorithm: &nbsp; [CDRN04](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CDRN04.cpp)
 
-- [x] Suffix Array: &nbsp; [1590](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/SUBLEX.cpp), &nbsp; [SUBLEX](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/SUBLEX.cpp)
+- [x] Suffix Array: &nbsp; [1590](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/SUBLEX.cpp), &nbsp; [SUBLEX](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/SUBLEX.cpp), &nbsp; [SARRAY](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/SARRAY.cpp)
 
 - [x] Fast Fourier Transformation: [POLYMUL](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/POLYMUL.cpp)
 

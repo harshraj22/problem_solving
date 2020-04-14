@@ -1,5 +1,7 @@
 // https://acm.timus.ru/problem.aspx?space=1&num=1590
 // https://codeforces.com/blog/entry/4025?#comment-142770
+// Duval Algo:
+//      1.https://www.spoj.com/problems/BEADS/
 
 #include<bits/stdc++.h>
 using namespace std;

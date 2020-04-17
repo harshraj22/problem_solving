@@ -1,7 +1,7 @@
 ## Topic wise faster lookup:
    ##### This lookup contains only ```small section``` of my list of problems solved.
 
-- [x] Lambda Functions: &nbsp; [DFSOfGraph](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/DFSOfGraph.cpp), &nbsp; [1387](https://github.com/harshraj22/problem_solving/blob/master/solution/leetcode/1387.cpp)
+- [x] Lambda Functions: &nbsp; [DFSOfGraph](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/DFSOfGraph.cpp), &nbsp; [1387](https://github.com/harshraj22/problem_solving/blob/master/solution/leetcode/1387.cpp), &nbsp; [NumberOfIslands](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/30DayChallenge/17)
 
 - [x] Brute Force: &nbsp; [WTBTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/WTBTR.cpp)
 

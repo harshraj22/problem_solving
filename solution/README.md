@@ -43,7 +43,7 @@
 	- [x] Bellman Ford: &nbsp; [423 - MPI Maelstrom](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/423.cpp), &nbsp; [NegativeWeightCycle.cpp](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/NegativeWeightCycle.cpp)
 	- [x] Floyd Warshall: &nbsp; [DimaAndBacteria](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DimaAndBacteria.cpp), &nbsp; [RoadsInBerland](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/RoadsInBerland.cpp)
 
-- [x] Topological Sort: &nbsp; [10305](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/10305.cpp)
+- [x] Topological Sort: &nbsp; [10305](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/10305.cpp), &nbsp; [791](https://github.com/harshraj22/problem_solving/blob/master/solution/leetcode/791cpp)
 
 - [x] Connected Components:  &nbsp; [11838](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/11838.cpp), &nbsp; [ConnectedComponent](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/ConnectedComponent.cpp), &nbsp; [1or2](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/1or2.cpp), &nbsp; [QuantityOfStrings](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/QuantityOfStrings.cpp)
 

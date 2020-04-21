@@ -1,3 +1,4 @@
+// overloads output stream to allow printing containers dirctly
 template < typename F, typename S >
 ostream& operator << ( ostream& os, const pair< F, S > & p ) {
     return os << "(" << p.first << ", " << p.second << ")";
@@ -38,21 +39,31 @@ ostream &operator << ( ostream & os, const map< F, S > &v ) {
 
 #define deb(x) cerr << #x << " = " << x << endl;
 
-template <typename T>
-void show(T arr,int n){ //for fixed length visibility of array
-    cout<<"array : \n";
-    for(int i=0;i<n;i++){
-        cout<<arr[i]<<" ";
-    }
-    cout<<endl;
+#define TRACE
+#ifdef TRACE
+#define trace(...) __f(#__VA_ARGS__, __VA_ARGS__)
+template <typename Arg1>
+void __f(const char* name, Arg1&& arg1){
+	cout << name << " : " << arg1 << std::endl;
 }
+template <typename Arg1, typename... Args>
+void __f(const char* names, Arg1&& arg1, Args&&... args){
+	const char* comma = strchr(names + 1, ',');cout.write(names, comma - names) << " : " << arg1<<" | ";__f(comma+1, args...);
+}
+#else
+#define trace(...) 1
+#endif
 
-template <typename T>
-void show(T arr,int n,int m){
-    cout<<"array : \n";
-    for(int i=0;i<n;i++){
-        for(int j=0;j<m;j++)
-            cout<<arr[i][j]<<" ";
-    cout<<endl;
-    }
-}
+
+/*
+usage:
+    int a = 1, b = 2;
+    vector<int> v = {1, 2, 3, 4};
+    trace(a); trace(a, b);
+    trace(v);
+
+    for fixed lenght:
+    cout << vector<int> {v.begin(), v.begin()+lenght} << '\n';
+    trace(vector<int> {v.begin(), v.begin()+2});
+
+*/

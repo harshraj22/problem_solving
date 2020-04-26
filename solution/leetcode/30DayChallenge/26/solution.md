@@ -41,3 +41,26 @@ public:
     }
 };
 ```
+
+   - Python3 solution
+```python
+class Solution:
+    def longestCommonSubsequence(self, text1: str, text2: str) -> int:
+        n, m = len(text1), len(text2)
+        if min(n, m) == 0:
+            return 0
+        
+        dp = [[-1 for i in text2] for j in text1]
+        
+        def recur(first, second):
+            if min(first, second) < 0:
+                return 0
+            elif dp[first][second] != -1:
+                return dp[first][second]
+            
+            dp[first][second] = 1 + recur(first-1, second-1) if text1[first] == text2[second] else max(recur(first-1, second), recur(first, second-1))
+            return dp[first][second]
+        
+        return recur(n-1, m-1)
+        
+```

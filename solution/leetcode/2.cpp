@@ -49,3 +49,46 @@ public:
         return head;
     }
 };
+
+
+/*
+
+# Python Implementation
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        head = ListNode(0)
+        node = head
+        carry = 0
+        
+        while l1 != None and l2 != None:
+            sum = l1.val + l2.val + carry
+            node.next = ListNode(sum%10)
+            node = node.next
+            carry = sum//10
+            l1 = l1.next
+            l2 = l2.next
+        
+        if l1 == None:
+            l1, l2 = l2, l1
+            
+        while l1 != None:
+            sum = l1.val + carry
+            node.next = ListNode(sum%10)
+            node = node.next
+            carry = sum//10
+            l1 = l1.next
+            
+        if carry != 0:
+            node.next = ListNode(carry)
+            node = node.next
+            carry = 0
+            
+        return head.next
+*/

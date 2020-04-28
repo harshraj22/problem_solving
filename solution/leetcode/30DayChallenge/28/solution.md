@@ -41,3 +41,36 @@ public:
  * obj->add(value);
  */
 ```
+
+``` python
+from collections import defaultdict
+class FirstUnique:
+
+    def __init__(self, nums: List[int]):
+        self.que = nums
+        self.freq = defaultdict(lambda: 0)
+        for num in nums:
+            self.freq[num] += 1
+
+    def showFirstUnique(self) -> int:
+        if len(self.que) == 0:
+            return -1
+        while len(self.que):
+            if self.freq[self.que[0]] > 1:
+                self.que.pop(0)
+            else :
+                return self.que[0]
+        return -1
+        
+
+    def add(self, value: int) -> None:
+        self.que.append(value)
+        self.freq[value] += 1
+
+
+# Your FirstUnique object will be instantiated and called as such:
+# obj = FirstUnique(nums)
+# param_1 = obj.showFirstUnique()
+# obj.add(value)
+
+```

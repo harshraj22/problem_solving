@@ -43,3 +43,27 @@ public:
     }
 };
 ```
+
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    from math import inf
+    
+    # return a tuple of:
+    #   ( answer of current subtree,
+    #   max till current node )
+    def get(self, root: TreeNode) -> tuple:
+        if root is None:
+            return -inf, -inf
+        left, right = self.get(root.left), self.get(root.right)
+        
+        return max(root.val, left[0], right[0], left[1] + right[1] + root.val, left[1] + root.val, right[1] + root.val), max(root.val, root.val + left[1], root.val + right[1])
+    
+    def maxPathSum(self, root: TreeNode) -> int:
+        return self.get(root)[0]
+```

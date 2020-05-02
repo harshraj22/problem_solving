@@ -8,7 +8,7 @@
 - [x] Priority Queue: (Heap) &nbsp; [IPCTRAIN](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/IPCTRAIN.cpp) 
 
 - [x] Search: &nbsp;
-	- [x] Binary Search: &nbsp; [RNDRND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RNDRND.cpp), &nbsp; [Agressive Cows](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Aggressive_cows.cpp), &nbsp; [Present](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Present.cpp), &nbsp; [STRMCH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/STRMCH.cpp) 
+	- [x] Binary Search: &nbsp; [RNDRND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RNDRND.cpp), &nbsp; [Agressive Cows](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Aggressive_cows.cpp), &nbsp; [Present](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Present.cpp), &nbsp; [STRMCH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/STRMCH.cpp), &nbsp; [DBYZ15F](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/DBYZ15F.cpp) 
 
 	- [x] Ternary Search: &nbsp; [DevuAndHisBrother](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DevuAndHisBrother.cpp)
 

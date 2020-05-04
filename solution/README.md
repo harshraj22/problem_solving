@@ -29,7 +29,7 @@
 
 - [x] Geometry: &nbsp; [CLOPPAIR](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/CLOPPAIR.cpp)
 
-- [x] Union Find (DSU): &nbsp; [MAGICSTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAGICSTR.cpp), &nbsp; [DimaAndBacteria](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DimaAndBacteria.cpp)
+- [x] Union Find (DSU): &nbsp; [MAGICSTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAGICSTR.cpp), &nbsp; [DimaAndBacteria](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DimaAndBacteria.cpp), &nbsp; [MinimumArray](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/MinimumArray.py)
 
 - [x] Trees: &nbsp; [RestoreGraph](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/RestoreGraph.cpp)
 

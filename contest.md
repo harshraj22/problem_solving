@@ -22,6 +22,7 @@ Day | Rank | Link | Type | Review | Upsolved |
 
 
 * log(n) is not always negligible. Especially when there is already a log(n) factor. i.e. O(n) and O(n*log(n)*log(n)) differ alot
+* Try doing [this](https://codeforces.com/problemset/problem/543/A) by recursive dp :) Seems iterative is much more useful here.
 [TLE](https://codeforces.com/problemset/submission/385/72215293) to [AC](https://codeforces.com/problemset/submission/385/72215637) by changing map to array.
 
 

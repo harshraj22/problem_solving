@@ -36,3 +36,9 @@ Day | Rank | Link | Type | Review | Upsolved |
 | 7   | 4   | [ABC 161](https://github.com/harshraj22/problem_solving/tree/master/solution/atcoder/contests/ABC161) | [Atcoder](https://atcoder.jp/contests/abc161/tasks) |
 | 8   | 5   | [Weekly 148](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly148) | [Leetcode](https://leetcode.com/contest/weekly-contest-148)
 | 9   | 7   | [Weekly 150](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly150) | [Leetcode](https://leetcode.com/contest/weekly-contest-150)
+
+
+
+|S. No.| Day | Link | Website |
+|------|-----|------|---------|
+| 1    | 1   | [Weekly 183](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly183) | [Leetcode](https://leetcode.com/contest/weekly-contest-183)

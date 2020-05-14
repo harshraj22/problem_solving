@@ -42,3 +42,4 @@ Day | Rank | Link | Type | Review | Upsolved |
 |S. No.| Day | Link | Website |
 |------|-----|------|---------|
 | 1    | 1   | [Weekly 183](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly183) | [Leetcode](https://leetcode.com/contest/weekly-contest-183)
+| 2    | 2   | [Weekly 91](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly91) | [Leetcode](https://leetcode.com/contest/weekly-contest-91)

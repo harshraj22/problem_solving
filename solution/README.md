@@ -47,7 +47,7 @@
 
 - [x] Connected Components:  &nbsp; [11838](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/11838.cpp), &nbsp; [ConnectedComponent](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/ConnectedComponent.cpp), &nbsp; [1or2](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/1or2.cpp), &nbsp; [QuantityOfStrings](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/QuantityOfStrings.cpp)
 
-- [x] Bridges and Articulation Points: &nbsp; [SUBMERGE](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/SUBMERGE.cpp)
+- [x] Bridges and Articulation Points: &nbsp; [SUBMERGE](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/SUBMERGE.cpp), &nbsp; [KINGCON](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SUBMERGE.cpp)
 
 - [x] Binary Lifting (LCA): &nbsp; [INTRPATH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/INTRPATH.cpp), &nbsp; [CATS](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CATS.cpp), &nbsp; [COW3D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/COW3D.cpp), &nbsp; [TreeQueries](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/TreeQueries.cpp)
 

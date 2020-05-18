@@ -49,7 +49,8 @@
 
 - [ ] Bridges and Articulation Points: 
 
-- [x] Binary Lifting (LCA): &nbsp; [INTRPATH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/INTRPATH.cpp), &nbsp; [CATS](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CATS.cpp), &nbsp; [COW3D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/COW3D.cpp)
+- [x] Binary Lifting (LCA): &nbsp; [INTRPATH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/INTRPATH.cpp), &nbsp; [CATS](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CATS.cpp), &nbsp; [COW3D](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/COW3D.cpp), &nbsp; [TreeQueries](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/TreeQueries.cpp)
+
 
 - [x] Policy Based Data Structure (Alternative to Treap): &nbsp; [CHGORAM](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/CHGORAM.cpp), &nbsp; [TSECJ05](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.cpp), &nbsp; [TSECJ05 (copied python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TSECJ05.py), &nbsp; [SUBARR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/SUBARR.cpp), &nbsp; [NewYearChaos](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/NewYearChaos.cpp), &nbsp; [RRATING](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RRATING.cpp), &nbsp; [TESCJ05](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/TESCJ05.cpp) , &nbsp; [EnemyIsWeak](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/EnemyIsWeak.cpp)
 

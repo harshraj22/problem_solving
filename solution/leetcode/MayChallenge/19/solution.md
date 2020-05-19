@@ -58,3 +58,47 @@ public:
  * int param_1 = obj->next(price);
  */
 ```
+
+
+```python
+class StockSpanner:
+    # remember recursion limit in python is generally set to 1000
+    import sys
+    sys.setrecursionlimit(10**6)
+
+    def __init__(self):
+        self.index = 0
+        self.n = 10**5 + 5
+        self.seg = [0 for _ in range(4*self.n+5)]        
+
+    def query(self, node, sl, sr, ql, qr):
+        if ql > sr or qr < sl:
+            return 0
+        elif ql <= sl and qr >= sr:
+            return self.seg[node]
+        mid = (sl + sr)//2
+        return max(self.query(node*2, sl, mid, ql, qr), self.query(node*2+1, mid+1, sr, ql, qr))
+
+    def update(self, node, sl, sr, index, price):
+        if sl == sr:
+            self.seg[node] = price
+            return None
+        mid = (sl + sr)//2
+        if index <= mid:
+            self.update(node*2, sl, mid, index, price)
+        else:
+            self.update(node*2+1, mid+1, sr, index, price)
+        self.seg[node] = max(self.seg[node*2], self.seg[node*2+1])
+        return None
+
+    def next(self, price: int) -> int:
+        self.index += 1
+        past = self.query(1, 1, self.n, price+1, self.n)
+        ans = self.index - past
+        self.update(1, 1, self.n, price, self.index)
+        return ans
+        
+# Your StockSpanner object will be instantiated and called as such:
+# obj = StockSpanner()
+# param_1 = obj.next(price)
+```

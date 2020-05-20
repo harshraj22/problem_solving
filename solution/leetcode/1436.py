@@ -24,4 +24,19 @@ public:
         return "";
     }
 };
-```
+'''
+
+'''
+/**
+ * @param {string[][]} paths
+ * @return {string}
+ */
+var destCity = function(paths) {
+    let city = new Set(paths.map(path => path[0]));
+
+    for (const [ ,dest] of paths) {
+        if (!city.has(dest))
+            return dest;
+    }
+};
+'''

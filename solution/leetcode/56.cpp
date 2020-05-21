@@ -28,3 +28,20 @@ public:
         return ans;
     }
 };
+
+/* 
+class Solution:
+    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+        if not intervals:
+            return intervals
+        segments = sorted([tuple(seg) for seg in intervals])
+        ans, first, last = [], *segments[0]
+        for start, end in segments:
+            if last >= start:
+                last = max(last, end)
+            else:
+                ans.append([first, last])
+                first, last = start, end
+        ans.append([first, last])
+        return ans
+*/

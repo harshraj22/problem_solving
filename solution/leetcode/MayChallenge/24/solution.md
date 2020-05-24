@@ -38,3 +38,22 @@ public:
     }
 };
 ```
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def bstFromPreorder(self, preorder: List[int]) -> TreeNode:
+        if len(preorder) == 0:
+            return None
+        root, index = TreeNode(val=preorder[0]), 0
+        while index < len(preorder) and preorder[index] <= preorder[0]:
+            index += 1
+        root.left = self.bstFromPreorder(preorder[1:index])
+        root.right = self.bstFromPreorder(preorder[index:])
+        return root
+
+```

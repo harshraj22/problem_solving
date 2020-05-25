@@ -47,3 +47,5 @@ Day | Rank | Link | Type | Review | Upsolved |
 | 4    | 7   | [Div3 629](https://github.com/harshraj22/problem_solving/tree/master/solution/codeforces/contests/629) | [Codeforces](https://codeforces.com/contest/1328)
 | 5    | 8   | [Weekly 149](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly149) | [Leetcode](https://leetcode.com/contest/Weekly-contest-149)
 | 5    | 10   | [Div2 632](https://github.com/harshraj22/problem_solving/tree/master/solution/codeforces/contests/632) | [Codeforces](https://codeforces.com/contest/1333)
+| 6    | 12  | [Weekly 89](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly89) | [Leetcode](https://leetcode.com/contest/Weekly-contest-89)
+

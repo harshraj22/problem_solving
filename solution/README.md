@@ -5,6 +5,8 @@
 
 - [x] Brute Force: &nbsp; [WTBTR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/WTBTR.cpp)
 
+- [x] Stack: &nbsp; [739](https://github.com/harshraj22/problem_solving/blob/master/solution/leetcode/739.cpp)
+
 - [x] Priority Queue: (Heap) &nbsp; [IPCTRAIN](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/IPCTRAIN.cpp) 
 
 - [x] Search: &nbsp;

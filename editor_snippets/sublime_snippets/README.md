@@ -5,3 +5,6 @@ repalce ```harsh``` with your ```username``` and type ```init, Debug, Number``` 
 
 Alternatively you can go to ```Preferences -> Browse Packages -> User```
 (I hope a directory named ```User``` exists there)
+
+### Demo:
+![](sublime-snippet.gif)

@@ -36,3 +36,30 @@ public:
     }
 
 };
+
+
+/*
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        if not matrix:
+            return []
+        
+        dirs = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+        n, m = len(matrix), len(matrix[0])
+        order, position, index = [], (0, 0), 0
+        isValid = lambda x, y: (0 <= x < n) and (0 <= y < m)
+
+        while len(order) != n*m:
+            x, y = position
+            order.append(matrix[x][y])
+            matrix[x][y] = None
+            if not isValid(x+dirs[index][0], y+dirs[index][1]):
+                index = (index + 1)%len(dirs)
+            elif matrix[x+dirs[index][0]][y+dirs[index][1]] == None:
+                index = (index + 1)%len(dirs)
+            position = (x+dirs[index][0], y+dirs[index][1])
+
+        return order
+
+
+*/

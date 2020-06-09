@@ -11,7 +11,7 @@
 - [ ] I : Coins
 - [ ] J : Sushi
 - [x] K : Stones
-- [ ] L : Deque
+- [x] L : Deque
 - [ ] M : Candies
 - [x] N : Slimes
 - [ ] O : Matching

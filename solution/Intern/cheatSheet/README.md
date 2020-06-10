@@ -12,3 +12,7 @@ Aimed specially for internship interview prep.
  2. Pascal's Triangle [Leetcode](https://leetcode.com/problems/pascals-triangle/)
  3. Next Permutation [Leetcode](https://leetcode.com/problems/next-permutation/)
  4. Inversion Of Array(Using Merge Sort) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
+
+ * Day3:
+ 1. Excel Column Number: Pending
+ 2. Find n^x in log N [Leetcode](https://leetcode.com/problems/powx-n/)

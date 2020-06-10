@@ -4,3 +4,4 @@ Aimed specially for internship interview prep.
 [Video](https://www.youtube.com/watch?v=WNtzUR_MwUQ)
 
 1. Find the duplicate in an array of N integers. [Leetcode](https://leetcode.com/problems/find-the-duplicate-number)
+3. Find Missing And Repeating Number [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0) &nbsp; 

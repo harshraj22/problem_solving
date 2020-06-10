@@ -13,8 +13,9 @@ Aimed specially for internship interview prep.
  3. Next Permutation [Leetcode](https://leetcode.com/problems/next-permutation/)
  4. Inversion Of Array(Using Merge Sort) [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
 
- * Day3:
+* Day3:
  1. Excel Column Number: Pending
  2. Find n^x in log N [Leetcode](https://leetcode.com/problems/powx-n/)
  3. 
  4. Find GCD in log N [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/gcd-of-array/0)
+ 5. Grid Unique Paths [Leetcode](https://leetcode.com/problems/unique-paths/)

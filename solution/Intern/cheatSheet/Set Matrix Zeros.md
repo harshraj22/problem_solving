@@ -5,6 +5,8 @@ Space: O(1)
 
 Basic Idea Used: Use first element in row and col as flag to indicate if there is a 0 in corresponding row/ col. Handle the case of first row/ col seperately
 
+Also Tried: Setting flag at first element of row/ col if element is 0, but numbers of matrix can be -ve, also the elements are in range of int. Thus it didn't seem to work.
+
 ```c++
 class Solution {
 public:

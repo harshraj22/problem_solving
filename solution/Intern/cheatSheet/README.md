@@ -10,3 +10,4 @@ Aimed specially for internship interview prep.
 
 * Day2:
  2. Pascal's Triangle [Leetcode](https://leetcode.com/problems/pascals-triangle/)
+ 3. Next Permutation [Leetcode](https://leetcode.com/problems/next-permutation/)

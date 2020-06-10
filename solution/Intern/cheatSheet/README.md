@@ -19,4 +19,8 @@ Aimed specially for internship interview prep.
  3. 
  4. Find GCD in log N [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/gcd-of-array/0)
  5. Grid Unique Paths [Leetcode](https://leetcode.com/problems/unique-paths/)
- 6. Puzzles [GeeksForGeeks](https://www.geeksforgeeks.org/puzzles/) : Language Based are cool ^_^
+ 6. Puzzles [GeeksForGeeks](https://www.geeksforgeeks.org/puzzles/) : Language Based are cool 
+
+* Day4:
+ 3. Longest Consecutive Sequence: Pending
+

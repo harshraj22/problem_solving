@@ -21,6 +21,13 @@ Aimed specially for internship interview prep.
  5. Grid Unique Paths [Leetcode](https://leetcode.com/problems/unique-paths/)
  6. Puzzles [GeeksForGeeks](https://www.geeksforgeeks.org/puzzles/) : Language Based are cool 
 
-* Day4:
+* Day4: &nbsp; Pending
  3. Longest Consecutive Sequence: Pending
+
+* Day5: 
+
+* Day6: 
+
+* Day7:
+ 4. Trapping Rainwater : Pending
 

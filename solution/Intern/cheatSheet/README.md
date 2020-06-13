@@ -132,7 +132,7 @@ Day16: (String)
  - [ ] Prefix Function/Z-Function
  - [ ] KMP algo 
  - [ ] Minimum characters needed to be inserted in the beginning to make it palindromic. 
- - [ ] Check for Anagrams 
+ - [x] Check for Anagrams 
  - [ ] Count and Say 
  - [ ] Compare version numbers 
 
@@ -149,7 +149,7 @@ Day18: (Binary Tree)
  - [x] Height of a Binary Tree 
  - [ ] Diameter of Binary Tree 
  - [ ] Check if Binary tree is height balanced or not 
- - [ ] LCA in Binary Tree 
+ - [x] LCA in Binary Tree 
  - [x] Check if two trees are identical or not 
 
 Day 19: (Binary Tree) 
@@ -165,7 +165,7 @@ Day 20: (Binary Search Tree)
  - [x] Search given Key in BST 
  - [ ] Construct BST from given keys. 
  - [x] Check is a BT is BST or not  
- - [ ] Find LCA of two nodes in BST 
+ - [x] Find LCA of two nodes in BST 
  - [ ] Find the inorder predecessor/successor of a given Key in BST. 
 
 Day21: (BinarySearchTree) 
@@ -185,7 +185,7 @@ Day22: (Mixed Questions)
  - [ ] Flood-fill Algorithm 
 
 Day23: (Graph) 
- - [ ] Clone a graph (Not that easy as it looks) 
+ - [x] Clone a graph (Not that easy as it looks) 
  - [x] DFS
  - [x] BFS
  - [ ] Detect A cycle in Undirected Graph/Directed Graph 

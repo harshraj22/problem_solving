@@ -113,7 +113,7 @@ Day13: (Stack and Queue)
 
 Day14: 
  - [ ] Next Smaller Element 
- - [ ] LRU cache (vvvv. imp) 
+ - [x] LRU cache (vvvv. imp) 
  - [ ] Largest rectangle in histogram 
  - [ ] Sliding Window maximum 
  - [x] Implement Min Stack  

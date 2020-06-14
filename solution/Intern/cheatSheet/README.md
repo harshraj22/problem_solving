@@ -114,7 +114,7 @@ Day13: (Stack and Queue)
 Day14: 
  - [ ] Next Smaller Element 
  - [x] LRU cache (vvvv. imp) 
- - [ ] Largest rectangle in histogram 
+ - [x] Largest rectangle in histogram 
  - [ ] Sliding Window maximum 
  - [x] Implement Min Stack  
  - [ ] Rotten Orange (Using BFS)  

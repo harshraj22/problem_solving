@@ -40,7 +40,7 @@
 - [x] Simple BFS: &nbsp; [Grid](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Grid.cpp)
 
 - [x] Shortest Path:
-	- [x] Dijkstra: 
+	- [x] Dijkstra: &nbsp; [Dijkstra's](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Dijkstras.cpp)
 	- [x] Prim's: &nbsp; [Special Subtree](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.cpp), &nbsp; [Special Subtree (python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.py)
 	- [x] Bellman Ford: &nbsp; [423 - MPI Maelstrom](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/423.cpp), &nbsp; [NegativeWeightCycle.cpp](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/NegativeWeightCycle.cpp)
 	- [x] Floyd Warshall: &nbsp; [DimaAndBacteria](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DimaAndBacteria.cpp), &nbsp; [RoadsInBerland](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/RoadsInBerland.cpp)

@@ -195,7 +195,7 @@ Day23: (Graph)
 
 Day24: (Graph)
  - [ ] SCC(using KosaRaju’s algo) 
- - [ ] Djisktra’s Algorithm 
+ - [x] Djisktra’s Algorithm 
  - [ ] Bellman Ford Algo 
  - [ ] Floyd Warshall Algorithm  
  - [ ] MST using Prim’s Algo 

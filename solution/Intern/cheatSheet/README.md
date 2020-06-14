@@ -30,11 +30,11 @@ Day3: (Math)
  - [x] Go through Puzzles from GFG (Search on own) [GeeksForGeeks](https://www.geeksforgeeks.org/puzzles/) : Language Based are cool 
 
 Day4: (Hashing)
- - [ ] 2 Sum problem 
+ - [x] 2 Sum problem 
  - [ ] 4 Sum problem 
  - [ ] Longest Consecutive Sequence 
  - [ ] Longest Subarray with 0 sum 
- - [ ] Count number of subarrays with given XOR(this clears a lot of problems) 
+ - [x] Count number of subarrays with given XOR(this clears a lot of problems) 
  - [x] Longest substring without repeat 
 
 Day5: (LinkedList) 
@@ -90,7 +90,7 @@ Day11: (Divide and Conquer)
  - [ ] 1/N-th root of an integer (use binary search) (square root, cube root, ..)
  - [ ] Matrix Median
  - [ ] Find the element that appears once in sorted array, and rest element appears twice (Binary search) 
- - [ ] Search element in a sorted and rotated array. 
+ - [x] Search element in a sorted and rotated array. 
  - [ ] K-th element of two sorted arrays 
  - [ ] Media of an array     
 
@@ -179,8 +179,8 @@ Day21: (BinarySearchTree)
 Day22: (Mixed Questions) 
  - [ ] Binary Tree to Double Linked List 
  - [ ] Find median in a stream of running integers. 
- - [ ] K-th largest element in a stream. 
- - [ ] Distinct numbers in Window. 
+ - [x] K-th largest element in a stream. 
+ - [x] Distinct numbers in Window. 
  - [ ] K-th largest element in an unsorted array. 
  - [ ] Flood-fill Algorithm 
 

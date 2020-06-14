@@ -35,7 +35,7 @@ Day4: (Hashing)
  - [ ] Longest Consecutive Sequence 
  - [ ] Longest Subarray with 0 sum 
  - [ ] Count number of subarrays with given XOR(this clears a lot of problems) 
- - [ ] Longest substring without repeat 
+ - [x] Longest substring without repeat 
 
 Day5: (LinkedList) 
  - [x] Reverse a LinkedList 
@@ -221,8 +221,8 @@ Day26: (DP)
 
 
 Day27: 
- -[ ] Revise OS notes that you would have made during your sem 
- -[ ] If not made notes, spend 2 or 3  days and make notes from Knowledge Gate. 
+ - [ ] Revise OS notes that you would have made during your sem 
+ - [ ] If not made notes, spend 2 or 3  days and make notes from Knowledge Gate. 
 
 Day28: 
  - [ ] Revise DBMS notes that you would have made during your semesters. 

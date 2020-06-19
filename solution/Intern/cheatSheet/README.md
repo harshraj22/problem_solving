@@ -49,7 +49,7 @@ Day6:
  - [x] Find intersection point of Y LinkedList 
  - [x] Check if a LinkedList is palindrome or not. 
  - [ ] Reverse a LinkedList in groups. 
- - [ ] Detect a cycle and removing loop(two different questions and same concept) 
+ - [x] Detect a cycle and removing loop(two different questions and same concept) 
  - [ ] Flattening of a LinkedList 
  - [ ] Rotate a LinkedList 
  - [ ] Clone a Linked List with random and next pointer. 
@@ -108,7 +108,7 @@ Day13: (Stack and Queue)
  - [ ] BFS 
  - [ ] Implement Stack using Queue
  - [ ] Implement Queue using Stack 
- - [ ] Check for balanced parentheses 
+ - [x] Check for balanced parentheses 
  - [ ] Next Greater Element 
 
 Day14: 
@@ -140,14 +140,14 @@ Day17: (Binary Tree)
  - [ ] Inorder Traversal (with recursion and without recursion) 
  - [ ] Preorder Traversal (with recursion and without recursion) 
  - [ ] Postorder Traversal (with recursion and without recursion)  
- - [ ] LeftView Of Binary Tree
+ - [x] LeftView Of Binary Tree
  - [ ] Bottom View of Binary Tree
  - [ ] Top View of Binary Tree 
 
 Day18: (Binary Tree) 
  - [x] Level order Traversal / Level order traversal in spiral form 
  - [x] Height of a Binary Tree 
- - [ ] Diameter of Binary Tree 
+ - [ ] Diameter of Binary Tree (also cover node at max distance method)
  - [ ] Check if Binary tree is height balanced or not 
  - [x] LCA in Binary Tree 
  - [x] Check if two trees are identical or not 
@@ -158,7 +158,7 @@ Day 19: (Binary Tree)
  - [ ] Construct Binary Tree from Inorder and Postorder 
  - [ ] Symmetric Binary Tree 
  - [ ] Flatten Binary Tree to LinkedList 
- - [ ] Check if Binary Tree is mirror of itself or not   
+ - [x] Check if Binary Tree is mirror of itself or not   
 
 Day 20: (Binary Search Tree) 
  - [ ] Populate Next Right pointers of Tree 
@@ -177,21 +177,21 @@ Day21: (BinarySearchTree)
  - [ ] Serialize and deserialize Binary Tree
 
 Day22: (Mixed Questions) 
- - [ ] Binary Tree to Double Linked List 
+ - [x] Binary Tree to Double Linked List 
  - [ ] Find median in a stream of running integers. 
  - [x] K-th largest element in a stream. 
  - [x] Distinct numbers in Window. 
  - [ ] K-th largest element in an unsorted array. 
- - [ ] Flood-fill Algorithm 
+ - [x] Flood-fill Algorithm 
 
 Day23: (Graph) 
  - [x] Clone a graph (Not that easy as it looks) 
  - [x] DFS
  - [x] BFS
- - [ ] Detect A cycle in Undirected Graph/Directed Graph 
+ - [x] Detect A cycle in Undirected Graph/Directed Graph (undirected usind DSU, directed using back-edge)
  - [x] Topo Sort 
  - [x] Number of islands (Do in Grid and Graph both) 
- - [ ] Bipartite Check 
+ - [x] Bipartite Check 
 
 Day24: (Graph)
  - [ ] SCC(using KosaRaju’s algo) 

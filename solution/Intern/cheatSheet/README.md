@@ -33,7 +33,7 @@ Day4: (Hashing)
  - [x] 2 Sum problem 
  - [ ] 4 Sum problem 
  - [ ] Longest Consecutive Sequence 
- - [ ] Longest Subarray with 0 sum 
+ - [x] Longest Subarray with 0 sum 
  - [x] Count number of subarrays with given XOR(this clears a lot of problems) 
  - [x] Longest substring without repeat 
 
@@ -105,7 +105,7 @@ Day12: (Bits) (Optional, very rare topic in interviews, but if you have time lef
 
 Day13: (Stack and Queue) 
  - [ ] Implement Stack / Implement Queue
- - [ ] BFS 
+ - [x] BFS 
  - [ ] Implement Stack using Queue
  - [ ] Implement Queue using Stack 
  - [x] Check for balanced parentheses 

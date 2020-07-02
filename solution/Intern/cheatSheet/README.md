@@ -79,7 +79,7 @@ Day9: (Backtracking)
  - [ ] Word Break (print all ways)  
 
 Day10: 
- - [ ] Combination sum-1 
+ - [x] Combination sum-1 
  - [ ] Combination sum-2 
  - [ ] Palindrome Partioning 
  - [ ] Subset Sum-1 

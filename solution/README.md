@@ -12,7 +12,7 @@
 - [x] Search: &nbsp;
 	- [x] Binary Search: &nbsp; [RNDRND](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/RNDRND.cpp), &nbsp; [Agressive Cows](https://github.com/harshraj22/problem_solving/blob/master/solution/spoj/Aggressive_cows.cpp), &nbsp; [Present](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Present.cpp), &nbsp; [STRMCH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/STRMCH.cpp), &nbsp; [DBYZ15F](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/DBYZ15F.cpp) 
 
-	- [x] Ternary Search: &nbsp; [DevuAndHisBrother](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DevuAndHisBrother.cpp)
+	- [x] Ternary Search: &nbsp; [DevuAndHisBrother](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DevuAndHisBrother.cpp),  &nbsp; [RestorerDistance](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/RestorerDistance.cpp)
 
 	- [x] KMP: &nbsp; [ApplyKMP](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/ApplyKMP.cpp), &nbsp; [KAN13C](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/KAN13C.cpp), &nbsp; [459](https://github.com/harshraj22/problem_solving/blob/master/solution/leetcode/459.cpp) , &nbsp; [1423](https://github.com/harshraj22/problem_solving/blob/master/solution/timus/1423.cpp), &nbsp; [STRMCH](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/STRMCH.cpp)  
  

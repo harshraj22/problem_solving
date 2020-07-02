@@ -49,3 +49,10 @@ Day | Rank | Link | Type | Review | Upsolved |
 | 5    | 10   | [Div2 632](https://github.com/harshraj22/problem_solving/tree/master/solution/codeforces/contests/632) | [Codeforces](https://codeforces.com/contest/1333)
 | 6    | 12  | [Weekly 89](https://github.com/harshraj22/problem_solving/tree/master/solution/leetcode/contests/Weekly89) | [Leetcode](https://leetcode.com/contest/Weekly-contest-89)
 
+
+
+|S. No.| Day | Link | Rank | Type | Comments |
+|------|-----|------|------|------|----------|
+| 1    | 1   | [Div3 624](https://codeforces.com/contest/1311) | 1310 | virutal | |
+| 2    | 2   | [Div2 641](https://codeforces.com/contest/1350) | 2885 | virutal | | 
+| 3    | 3   | [Div2 643](https://codeforces.com/contest/1355) | 1160 | virutal | Ternary search |

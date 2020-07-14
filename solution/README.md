@@ -86,6 +86,6 @@
 	- [x] Dp with Bitmask: &nbsp; [EllysCheckers](https://github.com/harshraj22/problem_solving/blob/master/solution/topcoder/EllysCheckers.cpp)
 	- [x] SOS Dp: &nbsp; [MAXOR](https://github.com/harshraj22/problem_solving/blob/master/solution/codechef/MAXOR.cpp),  &nbsp; [Special Pairs](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Special_Pairs.cpp), &nbsp; [Compatible Numbers](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Compatible_Numbers.cpp), &nbsp; [Vowels](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/Vowels.cpp)
 	- [x] &nbsp; [Educational DP Contest](https://github.com/harshraj22/problem_solving/blob/master/solution/atcoder/educational_dp_contest)
-
+	- [x] Other Good problems: &nbsp; [LevkoAndArray](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/LevkoAndArray.cpp)
 
 

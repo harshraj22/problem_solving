@@ -57,9 +57,9 @@ Day6:
 Day7: (2-pointer) 
  - [x] Merge two sorted LinkedLists 
  - [x] Find the starting point of the loop. 
- - [ ] 3 sum 
+ - [x] 3 sum 
  - [x] Trapping rainwater [Leetcode](https://leetcode.com/problems/trapping-rain-water/)
- - [ ] Remove Duplicate from Sorted array 
+ - [x] Remove Duplicate from Sorted array 
  - [x] Max continuous number of 1’s  
 
 Day8: (Greedy)
@@ -89,7 +89,7 @@ Day10:
 Day11: (Divide and Conquer) 
  - [ ] 1/N-th root of an integer (use binary search) (square root, cube root, ..)
  - [ ] Matrix Median
- - [ ] Find the element that appears once in sorted array, and rest element appears twice (Binary search) 
+ - [x] Find the element that appears once in sorted array, and rest element appears twice (Binary search) 
  - [x] Search element in a sorted and rotated array. 
  - [ ] K-th element of two sorted arrays 
  - [ ] Media of an array     

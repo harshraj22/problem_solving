@@ -112,7 +112,7 @@ Day13: (Stack and Queue)
  - [ ] Next Greater Element 
 
 Day14: 
- - [ ] Next Smaller Element 
+ - [x] Next Smaller Element (using stack)
  - [x] LRU cache (vvvv. imp) 
  - [x] Largest rectangle in histogram 
  - [ ] Sliding Window maximum 
@@ -137,9 +137,9 @@ Day16: (String)
  - [ ] Compare version numbers 
 
 Day17: (Binary Tree) 
- - [ ] Inorder Traversal (with recursion and without recursion) 
- - [ ] Preorder Traversal (with recursion and without recursion) 
- - [ ] Postorder Traversal (with recursion and without recursion)  
+ - [x] Inorder Traversal (with recursion and without recursion) 
+ - [x] Preorder Traversal (with recursion and without recursion) 
+ - [x] Postorder Traversal (with recursion and without recursion)  
  - [x] LeftView Of Binary Tree
  - [ ] Bottom View of Binary Tree
  - [ ] Top View of Binary Tree 

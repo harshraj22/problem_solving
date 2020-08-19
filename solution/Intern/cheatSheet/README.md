@@ -130,7 +130,7 @@ Day15: (String)
 
 Day16: (String) 
  - [ ] Prefix Function/Z-Function
- - [ ] KMP algo 
+ - [x] KMP algo 
  - [ ] Minimum characters needed to be inserted in the beginning to make it palindromic. 
  - [x] Check for Anagrams 
  - [ ] Count and Say 
@@ -161,7 +161,7 @@ Day 19: (Binary Tree)
  - [x] Check if Binary Tree is mirror of itself or not   
 
 Day 20: (Binary Search Tree) 
- - [ ] Populate Next Right pointers of Tree 
+ - [x] Populate Next Right pointers of Tree 
  - [x] Search given Key in BST 
  - [ ] Construct BST from given keys. 
  - [x] Check is a BT is BST or not  

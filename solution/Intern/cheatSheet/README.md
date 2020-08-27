@@ -51,8 +51,8 @@ Day6:
  - [ ] Reverse a LinkedList in groups. 
  - [x] Detect a cycle and removing loop(two different questions and same concept) 
  - [ ] Flattening of a LinkedList 
- - [ ] Rotate a LinkedList 
- - [ ] Clone a Linked List with random and next pointer. 
+ - [x] Rotate a LinkedList 
+ - [x] Clone a Linked List with random and next pointer. 
 
 Day7: (2-pointer) 
  - [x] Merge two sorted LinkedLists 
@@ -84,7 +84,7 @@ Day10:
  - [ ] Palindrome Partioning 
  - [ ] Subset Sum-1 
  - [ ] Subset Sum-2 
- - [ ] K-th permutation Sequence 
+ - [x] K-th permutation Sequence 
 
 Day11: (Divide and Conquer) 
  - [ ] 1/N-th root of an integer (use binary search) (square root, cube root, ..)
@@ -124,7 +124,7 @@ Day15: (String)
  - [ ] Longest Palindrome in a string 
  - [ ] Roman Number to Integer and vice versa
  - [ ] Implement ATOI/STRSTR 
- - [ ] Longest Common Prefix 
+ - [x] Longest Common Prefix 
  - [ ] Rabin Karp 
 
 
@@ -154,8 +154,8 @@ Day18: (Binary Tree)
 
 Day 19: (Binary Tree) 
  - [ ] Maximum path sum 
- - [ ] Construct Binary Tree from inorder and preorder 
- - [ ] Construct Binary Tree from Inorder and Postorder 
+ - [x] Construct Binary Tree from inorder and preorder 
+ - [x] Construct Binary Tree from Inorder and Postorder 
  - [ ] Symmetric Binary Tree 
  - [ ] Flatten Binary Tree to LinkedList 
  - [x] Check if Binary Tree is mirror of itself or not   
@@ -171,7 +171,7 @@ Day 20: (Binary Search Tree)
 Day21: (BinarySearchTree) 
  - [ ] Floor and Ceil in a BST 
  - [ ] Find K-th smallest and K-th largest element in BST (2 different Questions) 
- - [ ] Find a pair with a given sum in BST 
+ - [x] Find a pair with a given sum in BST 
  - [ ] BST iterator 
  - [ ] Size of the largest BST in a Binary Tree 
  - [ ] Serialize and deserialize Binary Tree
@@ -205,9 +205,9 @@ Day25: (Dynamic Programming)
  - [ ] Max Product Subarray 
  - [x] Longest Increasing Subsequence
  - [x] Longest Common Subsequence 
- - [ ] 0-1 Knapsack 
+ - [x] 0-1 Knapsack 
  - [x] Edit Distance
- - [ ] Maximum sum increasing subsequence  
+ - [x] Maximum sum increasing subsequence  
  - [ ] Matrix Chain Multiplication 
 
 Day26: (DP) 

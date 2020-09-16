@@ -13,3 +13,5 @@ public boolean shouldConsiderAbbreviating(List<String> someNames) {
    - [src](https://softwareengineering.stackexchange.com/a/130979)
 
 Read a good post about naming conventions [here](https://dev.to/somedood/a-grammar-based-naming-convention-13jf)
+
+Read about **Design Patterns** to know standard design problems and write maintainable code.

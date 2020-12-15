@@ -51,6 +51,7 @@ class VendingMachine:
         else:
             print(f'You bought {product}')
             self._products[product].count = self._products[product].count + 1 
+            return (True, money - self._products[product].cost)
 
     def list_products(self):
         print(self._products.keys())

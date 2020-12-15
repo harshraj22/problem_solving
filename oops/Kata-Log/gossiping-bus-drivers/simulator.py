@@ -37,10 +37,7 @@ def simulate(routes):
         # check if all drivers know all other drivers
         all_know_others = all(( len(driver.knows) == len(routes) for driver in drivers ))
 
-    if all_know_others:
-        return True, clock.time
-    else:
-        return False, clock.time
+    return all_know_others, clock.time
 
 
 if __name__ == '__main__':

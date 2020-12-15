@@ -5,3 +5,9 @@
 
 #### Short Description
 Modify source code to make it more generic.
+
+
+#### Checks:
+- [ ] unit test 
+- [ ] pylint
+- [ ] applied design pattern

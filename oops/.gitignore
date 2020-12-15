@@ -3,5 +3,5 @@ build
 *.iml
 *.ipr
 .idea
-__pycache__
+*__pycache__
 vendor

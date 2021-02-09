@@ -43,7 +43,7 @@
 	- [x] Dijkstra: &nbsp; [Dijkstra's](https://github.com/harshraj22/problem_solving/blob/master/solution/HackerEarth_solutions/Dijkstras.cpp)
 	- [x] Prim's: &nbsp; [Special Subtree](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.cpp), &nbsp; [Special Subtree (python implementation)](https://github.com/harshraj22/problem_solving/blob/master/solution/hacker_rank/SpecialSubtree.py)
 	- [x] Bellman Ford: &nbsp; [423 - MPI Maelstrom](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/423.cpp), &nbsp; [NegativeWeightCycle.cpp](https://github.com/harshraj22/problem_solving/blob/master/solution/geeksforgeeks/NegativeWeightCycle.cpp)
-	- [x] Floyd Warshall: &nbsp; [DimaAndBacteria](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DimaAndBacteria.cpp), &nbsp; [RoadsInBerland](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/RoadsInBerland.cpp)
+	- [x] Floyd Warshall: &nbsp; [DimaAndBacteria](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/DimaAndBacteria.cpp), &nbsp; [RoadsInBerland](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/RoadsInBerland.cpp), &nbsp; [Shipping-and-Receiving](https://github.com/harshraj22/problem_solving/blob/483489837d6f76350f2dd41f248f47a8040ab5b6/solution/binarysearch/Shipping%20and%20Receiving.cpp)
 
 - [x] Topological Sort: &nbsp; [10305](https://github.com/harshraj22/problem_solving/blob/master/solution/uva_solutions/10305.cpp), &nbsp; [791](https://github.com/harshraj22/problem_solving/blob/master/solution/leetcode/791cpp)
 

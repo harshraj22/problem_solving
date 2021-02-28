@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/min-cost-climbing-stairs/
 # Simple Dynamic Programming based solution
+# solved again on Feb28, 2021
 
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:

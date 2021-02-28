@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/divisor-game/
+# Solved again on Feb28, 2021
 
 class Solution:
     from math import sqrt

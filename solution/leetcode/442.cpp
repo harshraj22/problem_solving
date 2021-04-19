@@ -1,13 +1,15 @@
 // https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/
 // Read about: How to store 2 numbers at one place from gfg
+// solved again on April 19th, 2021
+
 /*
 Basic Idea:
     Let mod > *max_element(all(nums))
     at any index, 'num', to store 'val' use:
-        nums[index] = num + mod*val   
-    to retrive num, use: 
+        nums[index] = num + mod*val
+    to retrive num, use:
         num = nums[index] % mod
-    to retrive val, use: 
+    to retrive val, use:
         val = nums[index] / mod
     Now it is clear why mod > *max_element(all(nums)) is required
 */

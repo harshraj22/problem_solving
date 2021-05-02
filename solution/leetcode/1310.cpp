@@ -1,6 +1,7 @@
 // https://leetcode.com/problems/xor-queries-of-a-subarray/
 // Time: O(N) Space: O(N)
 // Prefix Sum type solution
+// Solved again on May2, 2021
 
 class Solution {
 public:

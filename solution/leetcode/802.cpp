@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/find-eventual-safe-states/
+// solved again on May19, 2021
+
 class Solution {
 	// Idea is to use back-edge based dfs (discovered nodes and visited nodes concept)
 	int dfs(int node, vector<int> &visited, vector<int> &ending, vector<vector<int>> &graph) {

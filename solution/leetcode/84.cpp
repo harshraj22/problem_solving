@@ -52,3 +52,56 @@ public:
         return area;        
     }
 };
+
+
+/*
+// Alternate solution in O(nlogn) Time, O(n) space using property of set that it is always sorted.
+
+
+class Solution {
+public:
+    int largestRectangleArea(vector<int>& heights) {
+        set<pair<int, int>> intervals;
+        intervals.insert(make_pair(0, heights.size()));
+        
+        // find indexes corresponding to each height
+        map<int, vector<int>> indexes;
+        
+        for (int i = 0; i < heights.size(); i += 1)
+            indexes[heights[i]].push_back(i);
+        
+        int ans = 0;
+        // iterate over heights in increasing order
+        // 1. find interval of indexes in which its index lies
+        // 1.5 remove it from the set of indexes
+        // 2. try to update answer (height * width = area for current rectangle)
+        // 3. insert new intervals (current index breaks the existing interval into two)
+        for(auto _pair: indexes) {
+            int height = _pair.first;
+            for(auto index: _pair.second) {
+                // 1.
+                auto it = intervals.lower_bound(make_pair(index, -1));
+                if (it == intervals.end() or it->first > index)
+                    it = prev(it);
+                auto interval = *it;
+                
+                // 1.5
+                intervals.erase(it);
+                
+                // 2.
+                ans = max(ans, height * (interval.second - interval.first));
+                
+                // 3. 
+                if (index > interval.first)
+                    intervals.insert(make_pair(interval.first, index));
+                if (index+1 < interval.second)
+                    intervals.insert(make_pair(index+1, interval.second));
+                
+            }
+        }
+        
+        return ans;
+    }
+};
+
+*/

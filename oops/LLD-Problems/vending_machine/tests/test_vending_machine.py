@@ -22,9 +22,16 @@ class TestVendingMachine(unittest.TestCase):
         for product in self.initial_products:
             self.assertTrue(self.vending_machine.is_registered(product))
 
+    def test_registered_raises_exception(self):
+        self.assertFalse(self.vending_machine.is_registered(Product('Coffee', 1)))
+
     def test_available(self):
         for product in self.initial_products:
             self.assertTrue(self.vending_machine.is_available(product))
+        
+    def test_raises_exception(self):
+        with pytest.raises(KeyError):
+            self.vending_machine.is_available(Product('Coffee', 1))
 
     def test_quantity_consistency_on_buy(self):
         self.vending_machine.buy(self.initial_products[0], self.initial_products[0].cost)

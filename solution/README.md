@@ -89,3 +89,10 @@
 	- [x] Other Good problems: &nbsp; [LevkoAndArray](https://github.com/harshraj22/problem_solving/blob/master/solution/codeforces/LevkoAndArray.cpp)
 
 
+
+<hr>
+<details>
+	<summary> [Leetcode Only] Intern, Placement Prep Stats (Click) </summary>
+	<img width="584" alt="image" src="https://user-images.githubusercontent.com/46635452/166151937-74458963-5efd-4073-a7d7-1a655df26617.png">
+
+</details>

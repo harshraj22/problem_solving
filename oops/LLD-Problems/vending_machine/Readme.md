@@ -15,4 +15,5 @@ Problem Source: https://medium.com/javarevisited/25-software-design-interview-qu
        
 ## Local setup:
 1. install the dependencies using `pip install -r requirements.txt`
-2. Test coverage can be checked using `coverage run -m`
+2. Test coverage can be checked using `coverage report -m`
+3. Generate detailed HTML report using `coverage html && open htmlcov/index.html`

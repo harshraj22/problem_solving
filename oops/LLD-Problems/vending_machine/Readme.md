@@ -9,7 +9,7 @@ Problem Source: https://medium.com/javarevisited/25-software-design-interview-qu
 
 
 ## ToDo:
-- [ ] complete Unit tests
+- [x] complete Unit tests
 - [ ] Add coins of different dominations
 
        

@@ -1,7 +1,13 @@
 #pylint: disable=missing-class-docstring
-from typing import Optional, List
+import logging
 from collections import defaultdict
+from copy import deepcopy
+from typing import List, Optional
+
 from src.models.product import Product
+
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
 
 
 class VendingMachine:
@@ -37,7 +43,13 @@ class VendingMachine:
         """Register a product if it is not already present"""
         if self.is_registered(product_to_register):
             raise KeyError(f'{product_to_register} is already registered')
-        self.products[product_to_register] += 1
+        self.products[product_to_register] = 1
+
+    def add_product(self, product: Product):
+        """Add a product to the inventory."""
+        if not self.is_registered(product):
+            raise KeyError(f'{product} is not registered.')
+        self.products[product] += 1
 
     def buy(self, product_to_buy: Product, money: int) -> int:
         """Buy a product with the given amount of money. Returns the extra money

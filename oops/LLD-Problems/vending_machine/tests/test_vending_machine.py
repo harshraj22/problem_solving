@@ -29,14 +29,30 @@ class TestVendingMachine(unittest.TestCase):
         for product in self.initial_products:
             self.assertTrue(self.vending_machine.is_available(product))
         
-    def test_raises_exception(self):
+    def test_available_raises_exception(self):
         with pytest.raises(KeyError):
             self.vending_machine.is_available(Product('Coffee', 1))
 
     def test_quantity_consistency_on_buy(self):
         self.vending_machine.buy(self.initial_products[0], self.initial_products[0].cost)
         self.assertFalse(self.vending_machine.is_available(self.initial_products[0]))
+        self.vending_machine.add_product(self.initial_products[0])
 
-    # def test_buy_unavailable_product(self):
-    #     with pytest.raises(ValueError):
-    #         self.vending_machine.buy(self.initial_products[0], self.initial_products[0].cost)
+    def test_buy_unavailable_product(self):
+        self.vending_machine.buy(self.initial_products[0], self.initial_products[0].cost)
+        with pytest.raises(ValueError):
+            self.vending_machine.buy(self.initial_products[0], self.initial_products[0].cost)
+        self.vending_machine.add_product(self.initial_products[0])
+
+    def test_buy_not_enough_money(self):
+        with pytest.raises(ValueError):
+            self.vending_machine.buy(self.initial_products[0], self.initial_products[0].cost - 1)
+        
+    # def test_price_consistency_on_update(self):
+    #     self.vending_machine.update_price(self.initial_products[0], self.initial_products[0].cost + 1)
+        
+    #     money_left = self.vending_machine.buy(self.initial_products[0], self.initial_products[0].cost)
+    #     self.assertEqual(money_left, self.initial_products[0].cost)
+
+    #     self.vending_machine.buy(self.initial_products[0], self.initial_products[0].cost + 1)
+    #     self.assertFalse(self.vending_machine.is_available(self.initial_products[0]))

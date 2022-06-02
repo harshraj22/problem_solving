@@ -24,3 +24,24 @@ public:
         return isValidBST(root, -1LL + INT_MIN, 1LL + INT_MAX);
     }
 };
+
+
+/*
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+from math import inf
+
+class Solution:
+    def isValidBST(self, root: Optional[TreeNode], valid_range=(-inf, inf)) -> bool:
+        if root is None:
+            return True
+        if not valid_range[0] < root.val < valid_range[1]:
+            return False
+        return self.isValidBST(root.left, (valid_range[0], root.val)) and self.isValidBST(root.right, (root.val, valid_range[1]))
+
+*/

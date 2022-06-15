@@ -29,3 +29,32 @@ public:
         return ans;
     }
 };
+
+
+/*
+
+class Solution:
+    def is_pred(self, w1: str, w2: str):
+        """Checks if w1 is a predecessor of w2."""
+        if len(w1) + 1 != len(w2):
+            return False
+        for index, (ch1, ch2) in enumerate(zip(w1, w2)):
+            if ch1 != ch2:
+                return w1[index:] == w2[index+1:]
+        
+        # The last character differs
+        return True
+    
+    def longestStrChain(self, words: List[str]) -> int:
+        len_of_pred = [1 for _ in words]
+        words.sort(key=lambda word: len(word))
+        
+        for i, word in enumerate(words):  # O(n^2)
+            for j, prev_word in enumerate(words[:i]):
+                if self.is_pred(prev_word, word):
+                    len_of_pred[i] = max(len_of_pred[i], 1 + len_of_pred[j])
+                    
+        return max(len_of_pred)
+
+
+*/

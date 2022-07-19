@@ -9,3 +9,23 @@ class Solution:
                     return [first_index, second_index]
         
         raise Exception(f'Wrong input data. Expected sum of atleast two numbers to be {target}')
+
+
+""" 
+class Solution:
+    from collections import Counter
+    
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        indexes = {num: index for index, num in enumerate(nums)}
+        counts = Counter(nums)
+        
+        for index, num in enumerate(nums):
+            residual = target - num
+            if residual not in indexes:
+                continue
+            if residual != num:
+                return [index, indexes[residual]]
+            elif counts[residual] > 1:
+                return [index, indexes[residual]]
+
+"""

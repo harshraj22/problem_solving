@@ -16,3 +16,28 @@ public:
         return index;
     }
 };
+
+
+/*
+
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        NOT_EXIST = -102
+        
+        for index, num in enumerate(nums[1:], 1):
+            if num == nums[index-1]:
+                nums[index-1] = NOT_EXIST
+        
+        left, right = 0, 1
+        while right < len(nums):
+            while left < right and nums[left] != NOT_EXIST:
+                left += 1
+            while right < len(nums) and nums[right] == NOT_EXIST:
+                right += 1
+            if right < len(nums):
+                nums[left], nums[right] = nums[right], nums[left]
+            right += 1
+        
+        return left+1
+
+*/

@@ -50,3 +50,36 @@ public:
         return ans;
     }
 };
+
+
+/*
+
+class Solution:
+    from collections import defaultdict
+    
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        incoming = [0 for _ in range(numCourses)]
+        graph = defaultdict(list)
+        start = []
+        
+        for (u, v) in prerequisites:
+            graph[u].append(v)
+            incoming[v] += 1
+            
+        for index, val in enumerate(incoming):
+            if val == 0:
+                start.append(index)
+                
+        while start:
+            node = start.pop()
+            for child in graph[node]:
+                incoming[child] -= 1
+                if incoming[child] == 0:
+                    start.append(child)
+                elif incoming[child] < 0:
+                    return False
+        
+        return all(x == 0 for x in incoming)
+        
+
+*/

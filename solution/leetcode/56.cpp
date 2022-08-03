@@ -44,4 +44,5 @@ class Solution:
                 first, last = start, end
         ans.append([first, last])
         return ans
+
 */

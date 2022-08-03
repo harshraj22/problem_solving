@@ -35,3 +35,27 @@ class Solution:
             result, element, size = self.search(root.right, k-size-1)
         
         return element
+
+
+""" 
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def search(self, root, k) -> tuple[int, int]:
+        if not root:
+            return k, -1
+        left_k, left_val = self.search(root.left, k)
+        if left_k == 0:
+            return left_k, left_val
+        elif left_k == 1:
+            return 0, root.val
+        return self.search(root.right, left_k-1)
+        
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        return self.search(root, k)[1]
+
+"""

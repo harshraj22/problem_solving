@@ -23,3 +23,23 @@ public:
 		return ans;
     }
 };
+
+/*
+class Solution:
+    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
+        n = len(temperatures)
+        indexes = [n-1]
+        answer = [0 for _ in temperatures]
+        
+        for i in range(n-2, -1, -1):
+            while indexes:
+                last = indexes[-1]
+                if temperatures[last] <= temperatures[i]:
+                    indexes.pop()
+                    continue
+                else:
+                    answer[i] = last - i
+                    break
+            indexes.append(i)
+        return answer
+*/

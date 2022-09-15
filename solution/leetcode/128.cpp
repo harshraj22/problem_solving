@@ -31,3 +31,51 @@ public:
 /* [100,4,200,1,3,2]
 [1,2,3,4,5]
 [1,5,2,4,3] */
+
+/*
+Solved Again using DSU in python
+I'm still worthy Lol
+
+
+class Solution:
+    def __init__(self):
+        self.parent = []
+        self.length = []
+        self.position = dict()
+        
+    def find_parent(self, index):
+        if self.parent[index] == index:
+            return index
+        self.parent[index] = self.find_parent(self.parent[index])
+        return self.parent[index]
+    
+    def merge(self, u, v):
+        if u not in self.position or v not in self.position:
+            return
+            
+        u_index = self.find_parent(self.position[u])
+        v_index = self.find_parent(self.position[v])
+        
+        # v is smaller
+        self.length[v_index] += self.length[u_index]
+        self.parent[u_index] = v_index
+
+        
+    def longestConsecutive(self, nums: List[int]) -> int:
+        if not nums: return 0
+        nums = list(set(nums))
+        n = len(nums)
+        self.parent = list(range(n))
+        self.length = [1 for _ in self.parent]
+        
+        for index, num in enumerate(nums):
+            self.position[num] = index
+            
+        for num in nums:
+            self.merge(num, num-1)
+        
+        return max(self.length)
+        
+
+
+*/

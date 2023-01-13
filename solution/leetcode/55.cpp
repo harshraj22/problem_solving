@@ -20,3 +20,19 @@ public:
         return pref[0] - (n > 1 ? pref[1]: 0);
     }
 };
+
+/*
+Time: O(n), Space: O(1)
+
+from math import inf
+
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
+        last_possible_index = inf
+        n = len(nums)
+        for i in range(n-1, -1, -1):
+            if nums[i] + i >= min(n-1, last_possible_index):
+                last_possible_index = i
+        return last_possible_index == 0
+
+*/

@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/climbing-stairs/
-# Fibonachi based easy DP
+# Fibonachi based easy DP 
 
 class Solution:
     def climbStairs(self, n: int) -> int:

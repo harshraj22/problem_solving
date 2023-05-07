@@ -56,6 +56,6 @@ class Solution:
         return self.search(root.right, left_k-1)
         
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        return self.search(root, k)[1]
+        return self.search(root, k)[1] 
 
 """

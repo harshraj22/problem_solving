@@ -59,3 +59,54 @@ public:
  * int param_1 = obj->get(key);
  * obj->put(key,value);
  */
+
+
+
+
+/*
+
+from queue import Queue
+
+class LRUCache:
+
+    def __init__(self, capacity: int):
+        self.cache = dict()
+        self.last_used = dict()
+        self.queue = Queue()
+        self.time = 0
+        self.capacity = capacity
+        
+    def use(self, key):
+        self.queue.put((self.time, key))
+        self.last_used[key] = self.time
+
+    def get(self, key: int) -> int:
+        self.time += 1
+        self.use(key)
+        if key in self.cache:
+            return self.cache[key]
+        return -1
+
+    def put(self, key: int, value: int) -> None:
+        self.time += 1
+        # evict the lru key if required
+        if len(self.cache) == self.capacity and key not in self.cache:
+            while self.queue:
+                time, _key = self.queue.get()
+                if time != self.last_used[_key] or _key not in self.cache:
+                    continue
+                del self.cache[_key]
+                break
+        # use the current key
+        self.use(key)
+        # store the corresponding value
+        self.cache[key] = value
+        
+
+
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
+
+*/

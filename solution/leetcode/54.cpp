@@ -60,6 +60,28 @@ class Solution:
             position = (x+dirs[index][0], y+dirs[index][1])
 
         return order
+        
+        
+        
+class Solution:
+    def get(self, matrix, xl, xr, yt, yb):
+        if xl > xr or yt > yb:
+            return None
+        for i in range(xl, xr+1):
+            yield matrix[yt][i]
+        for j in range(yt+1, yb+1):
+            yield matrix[j][xr]
+        if yb != yt: # else same row will be repeated
+            for i in range(xr-1, xl-1, -1):
+                yield matrix[yb][i]
+        if xl != xr: # else same col will be repeated
+            for j in range(yb-1, yt, -1):
+                yield matrix[j][xl]
+        yield from self.get(matrix, xl+1, xr-1, yt+1, yb-1)
+
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        n, m = len(matrix), len(matrix[0])
+        return list(self.get(matrix, 0, m-1, 0, n-1))
 
 
 */

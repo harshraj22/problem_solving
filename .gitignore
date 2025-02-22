@@ -1,2 +1,6 @@
 /lld/hospitalManagementSystem/.idea/
 /lld/hospitalManagementSystem/build/
+/lld/hospitalManagementSystem/.gradle/
+/lld/flipCache/.gradle/
+/lld/flipCache/build/
+/lld/flipCache/.idea/

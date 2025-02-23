@@ -17,7 +17,9 @@ public class CacheHitMetricCollector <K, V> implements CacheHook <K, V> {
 
     @Override
     public void onEvent(Event event, K key, V value) {
-        cacheHitCount += 1;
+        if (event == Event.HIT && key.equals(this.key)) {
+            cacheHitCount += 1;
+        }
     }
 
 }

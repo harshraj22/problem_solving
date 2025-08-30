@@ -31,9 +31,8 @@ public class FlipCache<K, V> implements GetCache<K, V>, SetCache<K, V> {
         );
     }
 
-    public CacheHook<K, V> registerHook(CacheHook<K, V> cacheHook) {
+    public void registerHook(CacheHook<K, V> cacheHook) {
         this.hooks.add(cacheHook);
-        return cacheHook;
     }
 
     @Override

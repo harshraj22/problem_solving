@@ -15,6 +15,7 @@ public class InMemoryDataSource <K, V> implements DataSource <K, V> {
     @Override
     public V persist(K key, V value) {
         data.put(key, value);
+        System.out.println("Persisted key: " + key + ", value: " + value + " in InMemoryDataSource. Size: " + data.size());
         return value;
     }
 

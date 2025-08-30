@@ -13,8 +13,8 @@ public class InMemoryDataSource <K, V> implements DataSource <K, V> {
     }
 
     @Override
-    public synchronized V persist(K key, V value) {
-        data.put(key, value);
+    public V persist(K key, V value) {
+        return data.put(key, value);
         /*
         For Testing multi-threaded access and exception handling
         System.out.println("Persisted key: " + key + ", value: " + value + " in InMemoryDataSource. Size: " + data.size());
@@ -22,27 +22,16 @@ public class InMemoryDataSource <K, V> implements DataSource <K, V> {
             throw new RuntimeException("InMemoryDataSource capacity exceeded");
         }
         */
-
-        return value;
     }
 
     @Override
     public V retrieve(K key) {
-        if (!this.contains(key)) {
-            return null;
-        }
         return data.get(key);
     }
 
     @Override
     public V remove(K key) {
-        if (!this.contains(key)) {
-            return null;
-        }
-
-        V value = this.retrieve(key);
-        data.remove(key);
-        return value;
+        return data.remove(key);
     }
 
     @Override

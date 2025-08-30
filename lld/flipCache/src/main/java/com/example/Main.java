@@ -28,8 +28,11 @@ public class Main {
         // Use fixed thread pool for better thread safety testing
         ExecutorService executorService = Executors.newFixedThreadPool(10);
         try {
-            // Test your cache with concurrent operations
+            // add code to measure how long it takes to execute the test
+            long startTime = System.currentTimeMillis();
             testCacheThreadSafety(executorService);
+            long endTime = System.currentTimeMillis();
+            System.out.println("======Test completed in " + (endTime - startTime) + " ms =======");
         } finally {
             executorService.shutdown();
             if (!executorService.awaitTermination(10, java.util.concurrent.TimeUnit.SECONDS)) {
@@ -51,7 +54,8 @@ public class Main {
         List<Future<?>> futures = new ArrayList<>();
 
         // Concurrent writes
-        for (int i = 0; i < 20; i++) {
+        int concurrentHitCount = 20_000;
+        for (int i = 0; i < concurrentHitCount; i++) {
             final int threadId = i;
             futures.add(executorService.submit(() -> {
                 String key = "key" + (threadId % 10);
@@ -62,7 +66,7 @@ public class Main {
         }
 
         // Concurrent reads
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < concurrentHitCount; i++) {
             final int threadId = i;
             futures.add(executorService.submit(() -> {
                 String key = "key" + (threadId % 10);

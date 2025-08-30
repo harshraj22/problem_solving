@@ -5,9 +5,10 @@ import com.example.application.ports.outbound.CacheHook;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class CacheHitMetricCollector <K, V> implements CacheHook <K, V> {
-    private final Map<K, Integer> hitCounts = new HashMap<>();
+    private final Map<K, Integer> hitCounts = new ConcurrentHashMap<>();
 
     public int getCacheHitCount(K key) {
         return hitCounts.getOrDefault(key, 0);

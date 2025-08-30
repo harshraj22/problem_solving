@@ -9,10 +9,11 @@ import com.example.application.ports.outbound.CacheHook;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class FlipCache<K, V> implements GetCache<K, V>, SetCache<K, V> {
     private final int maxSize;
-    private int currentSize;
+    private final AtomicInteger currentSize;
     private final DataSource<K, V> dataSource;
     private final EvictionPolicy<K> evictionPolicy;
     private final List<CacheHook<K, V>> hooks;
@@ -22,7 +23,7 @@ public class FlipCache<K, V> implements GetCache<K, V>, SetCache<K, V> {
         this.dataSource = dataSource;
         this.evictionPolicy = evictionPolicy;
         this.hooks = new ArrayList<>();
-        this.currentSize = 0;
+        this.currentSize = new AtomicInteger(0);
     }
 
     private void triggerHooks(Event event, K key, V value) {
@@ -48,7 +49,7 @@ public class FlipCache<K, V> implements GetCache<K, V>, SetCache<K, V> {
     }
 
     @Override
-    public V setCache(K key, V value) {
+    public synchronized V setCache(K key, V value) {
         // if key already exists
         if (dataSource.contains(key)) {
             evictionPolicy.keyAccessed(key);
@@ -56,18 +57,18 @@ public class FlipCache<K, V> implements GetCache<K, V>, SetCache<K, V> {
         }
 
         // If the cache is full, evict an item
-        if (currentSize == maxSize) {
+        if (currentSize.intValue() == maxSize) {
             K keyToEvict = evictionPolicy.evictionCandidate();
             triggerHooks(Event.EVICT, keyToEvict, dataSource.retrieve(keyToEvict));
             dataSource.remove(keyToEvict);
             evictionPolicy.keyRemoved(keyToEvict);
-            currentSize -= 1;
+            currentSize.getAndDecrement();
         }
 
         // persist the data
         dataSource.persist(key, value);
         evictionPolicy.keyAdded(key);
-        currentSize += 1;
+        currentSize.getAndIncrement();
 
         // Add appropriate metrics
         triggerHooks(Event.CREATE, key, value);

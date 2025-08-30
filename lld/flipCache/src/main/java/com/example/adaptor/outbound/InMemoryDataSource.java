@@ -2,20 +2,27 @@ package com.example.adaptor.outbound;
 
 import com.example.application.ports.outbound.DataSource;
 
-import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class InMemoryDataSource <K, V> implements DataSource <K, V> {
     private final Map<K, V> data;
 
     public InMemoryDataSource() {
-        this.data = new HashMap<>();
+        this.data = new ConcurrentHashMap<>();
     }
 
     @Override
-    public V persist(K key, V value) {
+    public synchronized V persist(K key, V value) {
         data.put(key, value);
+        /*
+        For Testing multi-threaded access and exception handling
         System.out.println("Persisted key: " + key + ", value: " + value + " in InMemoryDataSource. Size: " + data.size());
+        if (data.size() > 5) {
+            throw new RuntimeException("InMemoryDataSource capacity exceeded");
+        }
+        */
+
         return value;
     }
 

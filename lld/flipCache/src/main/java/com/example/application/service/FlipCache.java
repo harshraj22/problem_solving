@@ -9,6 +9,7 @@ import com.example.application.ports.outbound.CacheHook;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class FlipCache<K, V> implements GetCache<K, V>, SetCache<K, V> {
@@ -22,7 +23,7 @@ public class FlipCache<K, V> implements GetCache<K, V>, SetCache<K, V> {
         this.maxSize = maxSize;
         this.dataSource = dataSource;
         this.evictionPolicy = evictionPolicy;
-        this.hooks = new ArrayList<>();
+        this.hooks = new CopyOnWriteArrayList<>();
         this.currentSize = new AtomicInteger(0);
     }
 

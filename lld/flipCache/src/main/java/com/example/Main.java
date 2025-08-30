@@ -19,7 +19,7 @@ public class Main {
         EvictionPolicy<String> evictionPolicy = new SimpleEvictionPolicy<>();
         FlipCache<String, String> flipCache = new FlipCache<>(maxSizeOfCache, dataSource, evictionPolicy);
 
-        CacheHook<String, String> cacheHitMetricCollector = new CacheHitMetricCollector<>(keys.getFirst());
+        CacheHook<String, String> cacheHitMetricCollector = new CacheHitMetricCollector<>();
         flipCache.registerHook(cacheHitMetricCollector);
 
         flipCache.setCache(keys.get(0), "ValueA");

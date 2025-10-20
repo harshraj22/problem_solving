@@ -4,12 +4,13 @@ import com.example.application.ports.outbound.EvictionPolicy;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 public class SimpleEvictionPolicy <K> implements EvictionPolicy <K> {
     private final List<K> keys;
 
     public SimpleEvictionPolicy() {
-        this.keys = new ArrayList<>();
+        this.keys = new CopyOnWriteArrayList<>();
     }
 
     @Override

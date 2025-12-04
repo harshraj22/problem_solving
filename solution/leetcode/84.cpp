@@ -104,4 +104,41 @@ public:
     }
 };
 
+
+Alternate solution using O(N) time and O(N) space using monotonic stack
+
+class Solution:
+    def largestRectangleArea(self, heights: List[int]) -> int:
+        ansFromLeft = self.getAnswer(heights)
+        ansFromRight = self.getAnswer(heights[::-1])[::-1]
+
+        return max(x + y - z for x, y, z in zip(ansFromLeft, ansFromRight, heights))
+
+    def getAnswer(self, heights):
+        """Returns List ans, such that ans[i] is the length of largest
+        rectangle formed by heights[:i+1] where heights[i] is included"""
+
+        stack = []
+        ans = [0 for _ in heights]
+
+        for index, height in enumerate(heights):
+            # get the closest index of element smaller than 'height'
+            closestIndex = None
+            while stack and heights[stack[-1]] >= height:
+                stack.pop()
+            
+            if not stack:
+                closestIndex = -1
+            else:
+                closestIndex = stack[-1]
+
+            ans[index] = height * (index - closestIndex)
+
+            # update the stack
+            while stack and heights[stack[-1]] >= height:
+                stack.pop()
+            
+            stack.append(index)
+
+        return ans
 */

@@ -12,6 +12,7 @@ class KeyMetadata(NamedTuple):
     time: int = 0
     value: int = None
 
+
 class LFUCache:
 
     def __init__(self, capacity: int):
@@ -24,12 +25,22 @@ class LFUCache:
         self.count_ordered_key: List = [] 
 
     @staticmethod
-    def auto_increment_time(func):
-        """Decorator to automatically increment time for public methods."""
+    def auto_pre_increment_time(func):
+        """Decorator to automatically increment time for public methods before method execution."""
         @wraps(func)
         def wrapper(self, *args, **kwargs):
             self.time += 1
             return func(self, *args, **kwargs)
+        return wrapper
+    
+    @staticmethod
+    def auto_post_increment_current_size(func):
+        """Decorator to automatically increment current_size for public methods post method execution."""
+        @wraps(func)
+        def wrapper(self, *args, **kwargs):
+            result = func(self, *args, **kwargs)
+            self.current_size += 1
+            return result
         return wrapper
 
     def is_key_present_in_cache(self, key: int) -> bool:
@@ -39,7 +50,7 @@ class LFUCache:
         self.key_metadata[key] = KeyMetadata(count, self.time, value)
         heapq.heappush(self.count_ordered_key, (count, self.time, key))
 
-    @auto_increment_time
+    @auto_pre_increment_time
     def get(self, key: int) -> int:
         # update the time counter and the access time of the key
         # if the key is present in the cache
@@ -54,7 +65,7 @@ class LFUCache:
 
         return value
 
-    @auto_increment_time  
+    @auto_pre_increment_time  
     def put(self, key: int, value: int) -> None:
         # if key is in cache (count in key_metadata is not -1), 
         # update the count and time in key_metadata
@@ -64,16 +75,19 @@ class LFUCache:
             count, last_updated_time, _ = self.key_metadata[key]
             self.update_cache_internals(key, value, count+1)
             return None
+        
+        self.put_missing_key(key, value)
 
-        # else if it can be inserted without requiring an eviction
+
+    @auto_post_increment_current_size
+    def put_missing_key(self, key: int, value: int) -> None:
+        # if it can be inserted without requiring an eviction
         # ie, current_size < capacity,
         # update the count and time in key_metadata
         # and insert the new tuple in count_ordered_key
-        self.current_size += 1
-        if self.current_size <= self.capacity:
+        if self.current_size < self.capacity:
             count, last_updated_time = 0, self.time
             self.update_cache_internals(key, value, count+1)
-            
             return None
 
         while self.count_ordered_key:
